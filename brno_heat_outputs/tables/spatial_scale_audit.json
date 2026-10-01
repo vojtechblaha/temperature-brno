@@ -1,0 +1,17 @@
+[
+  {
+    "cell_size_m": 120,
+    "coverage_3_years_pct": 85.47445826488304,
+    "coverage_3_years_5_median_dates_pct": 73.8179613549245
+  },
+  {
+    "cell_size_m": 300,
+    "coverage_3_years_pct": 85.82648830477979,
+    "coverage_3_years_5_median_dates_pct": 75.61174998044278
+  },
+  {
+    "cell_size_m": 600,
+    "coverage_3_years_pct": 86.07642963310647,
+    "coverage_3_years_5_median_dates_pct": 77.15246812172416
+  }
+]

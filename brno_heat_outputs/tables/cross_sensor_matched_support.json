@@ -1,0 +1,14 @@
+{
+  "day": {
+    "city_coverage_pct": 78.30507152300494,
+    "terra_mean_C_decade": 0.5837970637083095,
+    "aqua_mean_C_decade": 0.7846877390121133,
+    "meaning": "Same pixels and observed summers, 2003-2025; distinct local observation times."
+  },
+  "night": {
+    "city_coverage_pct": 64.07160569549607,
+    "terra_mean_C_decade": 1.0509588486143524,
+    "aqua_mean_C_decade": 0.30460226565567294,
+    "meaning": "Same pixels and observed summers, 2003-2025; distinct local observation times."
+  }
+}

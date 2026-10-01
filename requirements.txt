@@ -1,0 +1,13 @@
+﻿earthengine-api==1.7.46
+geopandas==1.2.0
+rasterio==1.4.4
+numpy==2.4.6
+pandas==3.0.6
+matplotlib==3.11.2
+scipy==1.17.1
+requests==2.34.2
+reportlab==5.0.1
+pypdf==6.19.0
+pymupdf==1.28.2
+osmnx==2.1.1
+

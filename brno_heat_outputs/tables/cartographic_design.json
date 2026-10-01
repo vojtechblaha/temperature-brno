@@ -1,0 +1,33 @@
+{
+  "report_map": "Landsat 2001-2005, 2021-2025 and observed recent-minus-early difference",
+  "native_raster_shape": [
+    699,
+    743
+  ],
+  "grid_spacing_m": [
+    30.0,
+    30.0
+  ],
+  "recent_native_thermal_detail_m": [
+    60,
+    100
+  ],
+  "raster_interpolation": "none",
+  "temperature_gap_filling": false,
+  "labels_boundaries_and_report_chart": "vector",
+  "preview_export_dpi": 600,
+  "detail_bounds_UTM33N": [
+    613589.4155979564,
+    5446391.722233049,
+    618994.9168425982,
+    5452790.941078377
+  ],
+  "historical_native_thermal_detail_m": [
+    60,
+    120
+  ],
+  "difference_definition": "B minus A on identical observed pixels, without city-baseline subtraction",
+  "historical_quality_K": 5,
+  "primary_quality_K": 3,
+  "broader_only_display": "stippled on difference map"
+}

@@ -1,0 +1,2463 @@
+{
+  "period": "2001-2025",
+  "months": [
+    6,
+    7,
+    8
+  ],
+  "modis": {
+    "primary": {
+      "day": {
+        "fixed_area_coverage_pct": 57.25919393580694,
+        "fixed_grid_cells": 211,
+        "trend": {
+          "n_years": 25,
+          "ols_C_decade": 0.7544358974358913,
+          "ols_95CI": [
+            -0.20167219722429047,
+            1.7105439920960732
+          ],
+          "ols_p": 0.11623059665086345,
+          "ols_r2": 0.10381878248150464,
+          "hac_lag2_95CI": [
+            -0.053095786456971855,
+            1.5619675813287548
+          ],
+          "sen_C_decade": 0.7315972222222165,
+          "sen_95CI": [
+            -0.31666666666667176,
+            1.70555555555555
+          ],
+          "residual_lag1_correlation": -0.11646670526905985,
+          "ols_intercept": -124.32554615384491
+        },
+        "trend_2001_2020": {
+          "n_years": 20,
+          "ols_C_decade": 1.3087719298245537,
+          "ols_95CI": [
+            -0.12382785162923071,
+            2.741371711278338
+          ],
+          "ols_p": 0.07093841334773085,
+          "ols_r2": 0.16988785064009793,
+          "hac_lag2_95CI": [
+            0.2566734920141166,
+            2.3608703676349907
+          ],
+          "sen_C_decade": 1.3518713450292374,
+          "sen_95CI": [
+            -0.1619047619047517,
+            2.7624999999999966
+          ],
+          "residual_lag1_correlation": -0.20071171741697003,
+          "ols_intercept": -235.64526315789317
+        },
+        "trend_2002_2025": {
+          "n_years": 24,
+          "ols_C_decade": 0.5406231884057909,
+          "ols_95CI": [
+            -0.4635420429312357,
+            1.5447884197428177
+          ],
+          "ols_p": 0.27624060204241324,
+          "ols_r2": 0.05362693929324786,
+          "hac_lag2_95CI": [
+            -0.3318191982373767,
+            1.4130655750489587
+          ],
+          "sen_C_decade": 0.5760683760683473,
+          "sen_95CI": [
+            -0.4333333333333401,
+            1.5333333333333066
+          ],
+          "residual_lag1_correlation": -0.10304825474525096,
+          "ols_intercept": -81.19239565217264
+        },
+        "trend_2002_2020": {
+          "n_years": 19,
+          "ols_C_decade": 1.0333333333333248,
+          "ols_95CI": [
+            -0.5215623055906045,
+            2.5882289722572542
+          ],
+          "ols_p": 0.17887671481539247,
+          "ols_r2": 0.10365572725224526,
+          "hac_lag2_95CI": [
+            -0.23903796411290715,
+            2.305704630779557
+          ],
+          "sen_C_decade": 0.7999999999999853,
+          "sen_95CI": [
+            -0.4111111111110569,
+            2.7333333333332632
+          ],
+          "residual_lag1_correlation": -0.17781662501265194,
+          "ols_intercept": -180.17192982455967
+        },
+        "variable_support_trend": {
+          "n_years": 25,
+          "ols_C_decade": 1.0973076923076934,
+          "ols_95CI": [
+            -0.1214328029605756,
+            2.3160481875759626
+          ],
+          "ols_p": 0.07534998720836036,
+          "ols_r2": 0.1310608874765805,
+          "hac_lag2_95CI": [
+            0.08509399906744361,
+            2.1095213855479433
+          ],
+          "sen_C_decade": 1.1135964912281324,
+          "sen_95CI": [
+            -0.24666666666669101,
+            2.357894736842115
+          ],
+          "residual_lag1_correlation": -0.19538997545241346,
+          "ols_intercept": -191.26617179487198
+        },
+        "early_mean_C": 26.7426666666667,
+        "recent_mean_C": 27.77866666666669,
+        "first_last_5yr_difference_C": 1.0359999999999907,
+        "primary_on_same_support": {
+          "n_years": 25,
+          "ols_C_decade": 0.7544358974358913,
+          "ols_95CI": [
+            -0.20167219722429047,
+            1.7105439920960732
+          ],
+          "ols_p": 0.11623059665086345,
+          "ols_r2": 0.10381878248150464,
+          "hac_lag2_95CI": [
+            -0.053095786456971855,
+            1.5619675813287548
+          ],
+          "sen_C_decade": 0.7315972222222165,
+          "sen_95CI": [
+            -0.31666666666667176,
+            1.70555555555555
+          ],
+          "residual_lag1_correlation": -0.11646670526905985,
+          "ols_intercept": -124.32554615384491
+        }
+      },
+      "night": {
+        "fixed_area_coverage_pct": 50.402536634776254,
+        "fixed_grid_cells": 188,
+        "trend": {
+          "n_years": 25,
+          "ols_C_decade": 0.9022820512820526,
+          "ols_95CI": [
+            0.3265438377778992,
+            1.478020264786206
+          ],
+          "ols_p": 0.003598649803731059,
+          "ols_r2": 0.3136422006103821,
+          "hac_lag2_95CI": [
+            0.4353622209411049,
+            1.3692018816230003
+          ],
+          "sen_C_decade": 0.8629629629629708,
+          "sen_95CI": [
+            0.4374999999999929,
+            1.5060606060606139
+          ],
+          "residual_lag1_correlation": -0.20788322498694947,
+          "ols_intercept": -165.82857692307715
+        },
+        "trend_2001_2020": {
+          "n_years": 20,
+          "ols_C_decade": 0.8407769423558917,
+          "ols_95CI": [
+            -0.004916479338861746,
+            1.686470364050645
+          ],
+          "ols_p": 0.05120967007852014,
+          "ols_r2": 0.19508832399165982,
+          "hac_lag2_95CI": [
+            0.23775887676559068,
+            1.4437950079461925
+          ],
+          "sen_C_decade": 0.7549603174603087,
+          "sen_95CI": [
+            0.12777777777778296,
+            1.6404761904761993
+          ],
+          "residual_lag1_correlation": -0.3381505574652432,
+          "ols_intercept": -153.466704260652
+        },
+        "trend_2002_2025": {
+          "n_years": 24,
+          "ols_C_decade": 0.9579275362318863,
+          "ols_95CI": [
+            0.33465065510147135,
+            1.5812044173623012
+          ],
+          "ols_p": 0.004256719253743778,
+          "ols_r2": 0.3159074172913023,
+          "hac_lag2_95CI": [
+            0.4765389794820011,
+            1.4393160929817717
+          ],
+          "sen_C_decade": 0.9505952380952507,
+          "sen_95CI": [
+            0.42380952380951775,
+            1.6277777777777955
+          ],
+          "residual_lag1_correlation": -0.22894762297597945,
+          "ols_intercept": -177.05412608695696
+        },
+        "trend_2002_2020": {
+          "n_years": 19,
+          "ols_C_decade": 0.9209941520467875,
+          "ols_95CI": [
+            -0.016652057832979572,
+            1.8586403619265546
+          ],
+          "ols_p": 0.053755061372806015,
+          "ols_r2": 0.20167628721202485,
+          "hac_lag2_95CI": [
+            0.27932383806683847,
+            1.5626644660267364
+          ],
+          "sen_C_decade": 0.8270833333333449,
+          "sen_95CI": [
+            -0.011111111111101007,
+            1.9555555555555548
+          ],
+          "residual_lag1_correlation": -0.3648982918251848,
+          "ols_intercept": -169.6224502923984
+        },
+        "variable_support_trend": {
+          "n_years": 25,
+          "ols_C_decade": 0.92497435897436,
+          "ols_95CI": [
+            0.29662353669992414,
+            1.5533251812487958
+          ],
+          "ols_p": 0.005745614059606966,
+          "ols_r2": 0.2873356163276047,
+          "hac_lag2_95CI": [
+            0.44246193901934205,
+            1.407486778929378
+          ],
+          "sen_C_decade": 0.9472222222222217,
+          "sen_95CI": [
+            0.4599999999999902,
+            1.4666666666668604
+          ],
+          "residual_lag1_correlation": -0.2462570826039038,
+          "ols_intercept": -170.23027179487195
+        },
+        "early_mean_C": 15.066000000000026,
+        "recent_mean_C": 16.71800000000003,
+        "first_last_5yr_difference_C": 1.6520000000000028,
+        "primary_on_same_support": {
+          "n_years": 25,
+          "ols_C_decade": 0.9022820512820526,
+          "ols_95CI": [
+            0.3265438377778992,
+            1.478020264786206
+          ],
+          "ols_p": 0.003598649803731059,
+          "ols_r2": 0.3136422006103821,
+          "hac_lag2_95CI": [
+            0.4353622209411049,
+            1.3692018816230003
+          ],
+          "sen_C_decade": 0.8629629629629708,
+          "sen_95CI": [
+            0.4374999999999929,
+            1.5060606060606139
+          ],
+          "residual_lag1_correlation": -0.20788322498694947,
+          "ols_intercept": -165.82857692307715
+        }
+      }
+    },
+    "more_days": {
+      "day": {
+        "fixed_area_coverage_pct": 26.089150673018214,
+        "fixed_grid_cells": 100,
+        "trend": {
+          "n_years": 25,
+          "ols_C_decade": 0.8346410256410246,
+          "ols_95CI": [
+            -0.16881090590750145,
+            1.8380929571895503
+          ],
+          "ols_p": 0.09874266859146526,
+          "ols_r2": 0.11404293361763976,
+          "hac_lag2_95CI": [
+            -0.008982207473047232,
+            1.6782642587550964
+          ],
+          "sen_C_decade": 0.8169590643274921,
+          "sen_95CI": [
+            -0.20000000000000284,
+            1.940740740740744
+          ],
+          "residual_lag1_correlation": -0.1611119240384349,
+          "ols_intercept": -139.53270512820487
+        },
+        "primary_on_same_support": {
+          "n_years": 25,
+          "ols_C_decade": 0.8346410256410246,
+          "ols_95CI": [
+            -0.16881090590750145,
+            1.8380929571895503
+          ],
+          "ols_p": 0.09874266859146526,
+          "ols_r2": 0.11404293361763976,
+          "hac_lag2_95CI": [
+            -0.008982207473047232,
+            1.6782642587550964
+          ],
+          "sen_C_decade": 0.8169590643274921,
+          "sen_95CI": [
+            -0.20000000000000284,
+            1.940740740740744
+          ],
+          "residual_lag1_correlation": -0.1611119240384349,
+          "ols_intercept": -139.53270512820487
+        }
+      },
+      "night": {
+        "fixed_area_coverage_pct": 50.402536634776254,
+        "fixed_grid_cells": 188,
+        "trend": {
+          "n_years": 25,
+          "ols_C_decade": 0.9022820512820526,
+          "ols_95CI": [
+            0.3265438377778992,
+            1.478020264786206
+          ],
+          "ols_p": 0.003598649803731059,
+          "ols_r2": 0.3136422006103821,
+          "hac_lag2_95CI": [
+            0.4353622209411049,
+            1.3692018816230003
+          ],
+          "sen_C_decade": 0.8629629629629708,
+          "sen_95CI": [
+            0.4374999999999929,
+            1.5060606060606139
+          ],
+          "residual_lag1_correlation": -0.20788322498694947,
+          "ols_intercept": -165.82857692307715
+        },
+        "primary_on_same_support": {
+          "n_years": 25,
+          "ols_C_decade": 0.9022820512820526,
+          "ols_95CI": [
+            0.3265438377778992,
+            1.478020264786206
+          ],
+          "ols_p": 0.003598649803731059,
+          "ols_r2": 0.3136422006103821,
+          "hac_lag2_95CI": [
+            0.4353622209411049,
+            1.3692018816230003
+          ],
+          "sen_C_decade": 0.8629629629629708,
+          "sen_95CI": [
+            0.4374999999999929,
+            1.5060606060606139
+          ],
+          "residual_lag1_correlation": -0.20788322498694947,
+          "ols_intercept": -165.82857692307715
+        }
+      }
+    },
+    "strict_months": {
+      "day": {
+        "fixed_area_coverage_pct": 0.0,
+        "fixed_grid_cells": 0,
+        "trend": null,
+        "primary_on_same_support": null
+      },
+      "night": {
+        "fixed_area_coverage_pct": 14.572824500409084,
+        "fixed_grid_cells": 52,
+        "trend": {
+          "n_years": 25,
+          "ols_C_decade": 0.8506153846153847,
+          "ols_95CI": [
+            0.23373612614698036,
+            1.467494643083789
+          ],
+          "ols_p": 0.009011636389509043,
+          "ols_r2": 0.26131965151894976,
+          "hac_lag2_95CI": [
+            0.3751608877658133,
+            1.326069881464956
+          ],
+          "sen_C_decade": 0.7888888888888952,
+          "sen_95CI": [
+            0.3083333333333371,
+            1.3799999999999955
+          ],
+          "residual_lag1_correlation": -0.24338054675342982,
+          "ols_intercept": -155.36901025641023
+        },
+        "primary_on_same_support": {
+          "n_years": 25,
+          "ols_C_decade": 0.8506153846153847,
+          "ols_95CI": [
+            0.23373612614698036,
+            1.467494643083789
+          ],
+          "ols_p": 0.009011636389509043,
+          "ols_r2": 0.26131965151894976,
+          "hac_lag2_95CI": [
+            0.3751608877658133,
+            1.326069881464956
+          ],
+          "sen_C_decade": 0.7888888888888952,
+          "sen_95CI": [
+            0.3083333333333371,
+            1.3799999999999955
+          ],
+          "residual_lag1_correlation": -0.24338054675342982,
+          "ols_intercept": -155.36901025641023
+        }
+      }
+    },
+    "strict_1K": {
+      "day": {
+        "fixed_area_coverage_pct": 0.0,
+        "fixed_grid_cells": 0,
+        "trend": null,
+        "primary_on_same_support": null
+      },
+      "night": {
+        "fixed_area_coverage_pct": 0.0,
+        "fixed_grid_cells": 0,
+        "trend": null,
+        "primary_on_same_support": null
+      }
+    },
+    "relaxed_3K": {
+      "day": {
+        "fixed_area_coverage_pct": 90.87685787137514,
+        "fixed_grid_cells": 301,
+        "trend": {
+          "n_years": 25,
+          "ols_C_decade": 0.8037948717948707,
+          "ols_95CI": [
+            -0.24070664349058912,
+            1.8482963870803306
+          ],
+          "ols_p": 0.12505172006270143,
+          "ols_r2": 0.0992490661222144,
+          "hac_lag2_95CI": [
+            -0.10729885307273992,
+            1.7148885966624816
+          ],
+          "sen_C_decade": 0.8021428571428707,
+          "sen_95CI": [
+            -0.266666666666661,
+            1.8962962962963006
+          ],
+          "residual_lag1_correlation": -0.09785517182986357,
+          "ols_intercept": -132.18684102564077
+        },
+        "primary_on_same_support": {
+          "n_years": 25,
+          "ols_C_decade": 0.7544358974358913,
+          "ols_95CI": [
+            -0.20167219722429047,
+            1.7105439920960732
+          ],
+          "ols_p": 0.11623059665086345,
+          "ols_r2": 0.10381878248150464,
+          "hac_lag2_95CI": [
+            -0.053095786456971855,
+            1.5619675813287548
+          ],
+          "sen_C_decade": 0.7315972222222165,
+          "sen_95CI": [
+            -0.31666666666667176,
+            1.70555555555555
+          ],
+          "residual_lag1_correlation": -0.11646670526905985,
+          "ols_intercept": -124.32554615384491
+        }
+      },
+      "night": {
+        "fixed_area_coverage_pct": 58.08968784398603,
+        "fixed_grid_cells": 209,
+        "trend": {
+          "n_years": 25,
+          "ols_C_decade": 0.8986666666666719,
+          "ols_95CI": [
+            0.32682441939476736,
+            1.4705089139385763
+          ],
+          "ols_p": 0.0035217453554373876,
+          "ols_r2": 0.3148381535826481,
+          "hac_lag2_95CI": [
+            0.43605914509141097,
+            1.3612741882419326
+          ],
+          "sen_C_decade": 0.8227668845316037,
+          "sen_95CI": [
+            0.4185185185185228,
+            1.5051282051282215
+          ],
+          "residual_lag1_correlation": -0.22601445839022352,
+          "ols_intercept": -165.0294666666677
+        },
+        "primary_on_same_support": {
+          "n_years": 25,
+          "ols_C_decade": 0.9022820512820526,
+          "ols_95CI": [
+            0.3265438377778992,
+            1.478020264786206
+          ],
+          "ols_p": 0.003598649803731059,
+          "ols_r2": 0.3136422006103821,
+          "hac_lag2_95CI": [
+            0.4353622209411049,
+            1.3692018816230003
+          ],
+          "sen_C_decade": 0.8629629629629708,
+          "sen_95CI": [
+            0.4374999999999929,
+            1.5060606060606139
+          ],
+          "residual_lag1_correlation": -0.20788322498694947,
+          "ols_intercept": -165.82857692307715
+        }
+      }
+    },
+    "no_qa_zero_recovery": {
+      "day": {
+        "fixed_area_coverage_pct": 57.25919393580694,
+        "fixed_grid_cells": 211,
+        "trend": {
+          "n_years": 25,
+          "ols_C_decade": 0.7544358974358913,
+          "ols_95CI": [
+            -0.20167219722429047,
+            1.7105439920960732
+          ],
+          "ols_p": 0.11623059665086345,
+          "ols_r2": 0.10381878248150464,
+          "hac_lag2_95CI": [
+            -0.053095786456971855,
+            1.5619675813287548
+          ],
+          "sen_C_decade": 0.7315972222222165,
+          "sen_95CI": [
+            -0.31666666666667176,
+            1.70555555555555
+          ],
+          "residual_lag1_correlation": -0.11646670526905985,
+          "ols_intercept": -124.32554615384491
+        },
+        "primary_on_same_support": {
+          "n_years": 25,
+          "ols_C_decade": 0.7544358974358913,
+          "ols_95CI": [
+            -0.20167219722429047,
+            1.7105439920960732
+          ],
+          "ols_p": 0.11623059665086345,
+          "ols_r2": 0.10381878248150464,
+          "hac_lag2_95CI": [
+            -0.053095786456971855,
+            1.5619675813287548
+          ],
+          "sen_C_decade": 0.7315972222222165,
+          "sen_95CI": [
+            -0.31666666666667176,
+            1.70555555555555
+          ],
+          "residual_lag1_correlation": -0.11646670526905985,
+          "ols_intercept": -124.32554615384491
+        }
+      },
+      "night": {
+        "fixed_area_coverage_pct": 14.64364705456731,
+        "fixed_grid_cells": 48,
+        "trend": {
+          "n_years": 25,
+          "ols_C_decade": 0.8060769230769206,
+          "ols_95CI": [
+            0.3027797836253507,
+            1.3093740625284904
+          ],
+          "ols_p": 0.00303265798003858,
+          "ols_r2": 0.3230702902119,
+          "hac_lag2_95CI": [
+            0.44439508060818667,
+            1.1677587655456545
+          ],
+          "sen_C_decade": 0.7849206349206352,
+          "sen_95CI": [
+            0.26249999999999885,
+            1.3215686274509708
+          ],
+          "residual_lag1_correlation": -0.07268736189549242,
+          "ols_intercept": -146.73541794871744
+        },
+        "primary_on_same_support": {
+          "n_years": 25,
+          "ols_C_decade": 0.9408974358974326,
+          "ols_95CI": [
+            0.365713450505975,
+            1.5160814212888902
+          ],
+          "ols_p": 0.002555967785219928,
+          "ols_r2": 0.3323875867272618,
+          "hac_lag2_95CI": [
+            0.47904948064475084,
+            1.4027453911501142
+          ],
+          "sen_C_decade": 0.91045751633988,
+          "sen_95CI": [
+            0.39166666666666017,
+            1.4805555555555503
+          ],
+          "residual_lag1_correlation": -0.14551269487533508,
+          "ols_intercept": -173.52772051281983
+        }
+      }
+    },
+    "fewer_days": {
+      "day": {
+        "fixed_area_coverage_pct": 63.938060200746726,
+        "fixed_grid_cells": 229,
+        "trend": {
+          "n_years": 25,
+          "ols_C_decade": 0.7583846153846134,
+          "ols_95CI": [
+            -0.2106179633793831,
+            1.7273871941486099
+          ],
+          "ols_p": 0.11907468000299808,
+          "ols_r2": 0.1023072212682019,
+          "hac_lag2_95CI": [
+            -0.05549247095174223,
+            1.572261701720969
+          ],
+          "sen_C_decade": 0.7916666666666616,
+          "sen_95CI": [
+            -0.3666666666666618,
+            1.7666666666666753
+          ],
+          "residual_lag1_correlation": -0.13617675955323807,
+          "ols_intercept": -124.67922307692265
+        },
+        "primary_on_same_support": {
+          "n_years": 25,
+          "ols_C_decade": 0.7544358974358913,
+          "ols_95CI": [
+            -0.20167219722429047,
+            1.7105439920960732
+          ],
+          "ols_p": 0.11623059665086345,
+          "ols_r2": 0.10381878248150464,
+          "hac_lag2_95CI": [
+            -0.053095786456971855,
+            1.5619675813287548
+          ],
+          "sen_C_decade": 0.7315972222222165,
+          "sen_95CI": [
+            -0.31666666666667176,
+            1.70555555555555
+          ],
+          "residual_lag1_correlation": -0.11646670526905985,
+          "ols_intercept": -124.32554615384491
+        }
+      },
+      "night": {
+        "fixed_area_coverage_pct": 64.83111293076873,
+        "fixed_grid_cells": 239,
+        "trend": {
+          "n_years": 25,
+          "ols_C_decade": 0.9177692307692307,
+          "ols_95CI": [
+            0.3212243264400052,
+            1.514314135098456
+          ],
+          "ols_p": 0.004147680112374359,
+          "ols_r2": 0.3057399918772943,
+          "hac_lag2_95CI": [
+            0.42896901351215294,
+            1.4065694480263082
+          ],
+          "sen_C_decade": 0.8577777777777893,
+          "sen_95CI": [
+            0.41250000000000453,
+            1.5484848484848452
+          ],
+          "residual_lag1_correlation": -0.2078561768998938,
+          "ols_intercept": -168.82787948717944
+        },
+        "primary_on_same_support": {
+          "n_years": 25,
+          "ols_C_decade": 0.9022820512820526,
+          "ols_95CI": [
+            0.3265438377778992,
+            1.478020264786206
+          ],
+          "ols_p": 0.003598649803731059,
+          "ols_r2": 0.3136422006103821,
+          "hac_lag2_95CI": [
+            0.4353622209411049,
+            1.3692018816230003
+          ],
+          "sen_C_decade": 0.8629629629629708,
+          "sen_95CI": [
+            0.4374999999999929,
+            1.5060606060606139
+          ],
+          "residual_lag1_correlation": -0.20788322498694947,
+          "ols_intercept": -165.82857692307715
+        }
+      }
+    }
+  },
+  "landsat": {
+    "current": {
+      "coverage_pct": 98.76476570445124,
+      "city_median_C": 34.23762893676758,
+      "hotspot_p90_C": 5.1013946533203125
+    },
+    "1_dates_3_years_5_total": {
+      "area_coverage_pct": 73.90323085347728,
+      "early_city_median_C": 32.27226638793945,
+      "recent_city_median_C": 33.75568771362305,
+      "change_p10_C": -2.7121992111206055,
+      "change_p90_C": 2.4917373657226562
+    },
+    "1_dates_3_years_3_total": {
+      "area_coverage_pct": 84.22748963467104,
+      "early_city_median_C": 32.498711585998535,
+      "recent_city_median_C": 33.96076965332031,
+      "change_p10_C": -2.6908349990844727,
+      "change_p90_C": 2.5165185928344727,
+      "change_correlation_with_primary": 0.9999999999999998,
+      "sign_agreement_where_primary_abs_ge_2C_pct": 100.0
+    },
+    "2_dates_3_years_5_total": {
+      "area_coverage_pct": 33.5230384103888,
+      "early_city_median_C": 30.553003311157227,
+      "recent_city_median_C": 31.964645385742188,
+      "change_p10_C": -2.6284561157226562,
+      "change_p90_C": 2.717327117919922,
+      "change_correlation_with_primary": 0.94186460884923,
+      "sign_agreement_where_primary_abs_ge_2C_pct": 98.66728704842302
+    },
+    "1_dates_4_years_5_total": {
+      "area_coverage_pct": 61.110459203629816,
+      "early_city_median_C": 32.10991287231445,
+      "recent_city_median_C": 33.72663497924805,
+      "change_p10_C": -2.7147607803344727,
+      "change_p90_C": 2.4601226806640626,
+      "change_correlation_with_primary": 1.0,
+      "sign_agreement_where_primary_abs_ge_2C_pct": 100.0
+    },
+    "quality_audit": {
+      "broad_QA_K": 5,
+      "strict_QA_K": 3,
+      "min_years": 3,
+      "min_total_dates": 5,
+      "broad_coverage_pct": 98.22029257607761,
+      "shared_reference_coverage_pct": 73.90323085347728,
+      "broad_early_reference_C": 31.16995620727539,
+      "broad_recent_reference_C": 32.51836395263672,
+      "shared_filter_correlation": 0.6287823019966952,
+      "median_abs_filter_difference_C": 1.1125640869140625,
+      "classes": {
+        "0": {
+          "label": "Insufficient observations",
+          "area_pct": 1.779707423922397
+        },
+        "1": {
+          "label": "Broader filter only",
+          "area_pct": 24.31706172260033
+        },
+        "2": {
+          "label": "Small or filter-sensitive",
+          "area_pct": 64.80208088868028
+        },
+        "3": {
+          "label": "Relative decrease >=2 C under both filters",
+          "area_pct": 4.828287569428147
+        },
+        "4": {
+          "label": "Relative increase >=2 C under both filters",
+          "area_pct": 4.272862395368849
+        }
+      },
+      "sequential_exclusions": {
+        "0": {
+          "label": "Passes strict comparison",
+          "area_pct": 73.90323085347728
+        },
+        "1": {
+          "label": "Too few retrieval dates or years",
+          "area_pct": 1.1957287021825862
+        },
+        "2": {
+          "label": "Cloud/shadow/saturation/distance screen",
+          "area_pct": 0.5742001095204569
+        },
+        "3": {
+          "label": "Additional ST_QA <=5 K screen",
+          "area_pct": 0.00977861221935383
+        },
+        "4": {
+          "label": "Additional ST_QA <=3 K screen",
+          "area_pct": 24.31706172260033
+        }
+      },
+      "interpretation": "Filter agreement is a sensitivity check, not statistical significance or validation.",
+      "district_priority_screen": [
+        {
+          "district": "Brno-střed",
+          "city_grid_area_km2": 14.6349,
+          "recent_coverage_pct": 99.8831560174651,
+          "recent_median_anomaly_C": 4.09649658203125,
+          "hotspot_threshold_anomaly_C": 5.1013946533203125,
+          "hotspot_share_of_observed_pct": 37.28604851619259,
+          "strict_change_coverage_pct": 19.740483365106698,
+          "broad_change_coverage_pct": 90.8615706291126,
+          "increase_both_filters_pct": 1.1499907754750631,
+          "decrease_both_filters_pct": 0.46122624684828734
+        },
+        {
+          "district": "Brno-Černovice",
+          "city_grid_area_km2": 6.2946,
+          "recent_coverage_pct": 100.0,
+          "recent_median_anomaly_C": 3.98199462890625,
+          "hotspot_threshold_anomaly_C": 5.1013946533203125,
+          "hotspot_share_of_observed_pct": 32.01315413211324,
+          "strict_change_coverage_pct": 93.09408064054904,
+          "broad_change_coverage_pct": 100.0,
+          "increase_both_filters_pct": 29.59679725478982,
+          "decrease_both_filters_pct": 0.042893909064912784
+        },
+        {
+          "district": "Brno-jih",
+          "city_grid_area_km2": 12.7872,
+          "recent_coverage_pct": 99.71143018018019,
+          "recent_median_anomaly_C": 3.7905845642089844,
+          "hotspot_threshold_anomaly_C": 5.1013946533203125,
+          "hotspot_share_of_observed_pct": 31.058092750758806,
+          "strict_change_coverage_pct": 52.744932432432435,
+          "broad_change_coverage_pct": 99.7606981981982,
+          "increase_both_filters_pct": 3.265765765765766,
+          "decrease_both_filters_pct": 1.8721846846846846
+        },
+        {
+          "district": "Brno-Slatina",
+          "city_grid_area_km2": 5.8248,
+          "recent_coverage_pct": 100.0,
+          "recent_median_anomaly_C": 3.263355255126953,
+          "hotspot_threshold_anomaly_C": 5.1013946533203125,
+          "hotspot_share_of_observed_pct": 28.84734239802225,
+          "strict_change_coverage_pct": 99.86093943139679,
+          "broad_change_coverage_pct": 100.0,
+          "increase_both_filters_pct": 15.528430160692213,
+          "decrease_both_filters_pct": 0.7107540173053152
+        },
+        {
+          "district": "Brno-Židenice",
+          "city_grid_area_km2": 5.0427,
+          "recent_coverage_pct": 100.0,
+          "recent_median_anomaly_C": 3.8350181579589844,
+          "hotspot_threshold_anomaly_C": 5.1013946533203125,
+          "hotspot_share_of_observed_pct": 27.59236123505265,
+          "strict_change_coverage_pct": 97.6976619668035,
+          "broad_change_coverage_pct": 100.0,
+          "increase_both_filters_pct": 10.3694449402106,
+          "decrease_both_filters_pct": 2.3915759414599322
+        }
+      ]
+    }
+  },
+  "balanced_trends": {
+    "estimator": "area-weighted mean of cellwise OLS slopes on observed annual temperatures",
+    "report_interval": "joint_HAC; block-bootstrap and block-size sensitivity are supplementary; intervals exclude systematic errors",
+    "support_rule": "at least 80% of years, >=3 in first/last five, >=2 in each of five temporal blocks; no imputation",
+    "uncertainty": "joint year-score HAC lag2 with t interval; checked against 2500 joint 3-year pairs-bootstrap draws and block lengths 1/5; no systematic error bound",
+    "sources": {
+      "terra": {
+        "years": [
+          2001,
+          2002,
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ],
+        "phases": {
+          "day": {
+            "city": {
+              "coverage_pct": 98.50340012940977,
+              "grid_cells": 330,
+              "mean_local_OLS_C_decade": 0.7570562443765443,
+              "median_local_OLS_C_decade": 0.6736741562812621,
+              "median_valid_years": 25.0,
+              "mean_local_TheilSen_C_decade": 0.7451603903066755,
+              "bootstrap": {
+                "CI95_C_decade": [
+                  0.13729540303752996,
+                  1.7718569919393066
+                ],
+                "replicates": 2500,
+                "block_years": 3,
+                "seed": 419,
+                "method": "circular pairs bootstrap of years; joint across pixels"
+              },
+              "joint_HAC": {
+                "CI95_C_decade": [
+                  -0.08145542457039934,
+                  1.595567913323488
+                ],
+                "SE_C_decade": 0.40534096349423726,
+                "lag_years": 2,
+                "df": 23,
+                "method": "joint year scores with Bartlett HAC; finite-year t interval"
+              }
+            },
+            "centre": {
+              "coverage_pct": 91.28599046791952,
+              "grid_cells": 29,
+              "mean_local_OLS_C_decade": 0.5944959922072778,
+              "median_local_OLS_C_decade": 0.5930111742795565,
+              "median_valid_years": 21.0,
+              "mean_local_TheilSen_C_decade": 0.48766475673365106,
+              "bootstrap": {
+                "CI95_C_decade": [
+                  -0.38723869950367007,
+                  1.9014194643061095
+                ],
+                "replicates": 2500,
+                "block_years": 3,
+                "seed": 419,
+                "method": "circular pairs bootstrap of years; joint across pixels"
+              },
+              "joint_HAC": {
+                "CI95_C_decade": [
+                  -0.4217952616750934,
+                  1.6107872460896488
+                ],
+                "SE_C_decade": 0.49128055254948677,
+                "lag_years": 2,
+                "df": 23,
+                "method": "joint year scores with Bartlett HAC; finite-year t interval"
+              }
+            },
+            "sensitivity": {
+              "primary": {
+                "city": {
+                  "coverage_pct": 98.50340012940977,
+                  "grid_cells": 330,
+                  "mean_local_OLS_C_decade": 0.7570562443765443,
+                  "median_local_OLS_C_decade": 0.6736741562812621,
+                  "median_valid_years": 25.0,
+                  "mean_local_TheilSen_C_decade": 0.7451603903066755
+                },
+                "centre": {
+                  "coverage_pct": 91.28599046791952,
+                  "grid_cells": 29,
+                  "mean_local_OLS_C_decade": 0.5944959922072778,
+                  "median_local_OLS_C_decade": 0.5930111742795565,
+                  "median_valid_years": 21.0,
+                  "mean_local_TheilSen_C_decade": 0.48766475673365106
+                },
+                "primary_mean_on_shared_support": 0.7570562443765443,
+                "variant_mean_on_shared_support": 0.7570562443765443
+              },
+              "days15": {
+                "city": {
+                  "coverage_pct": 100.0,
+                  "grid_cells": 334,
+                  "mean_local_OLS_C_decade": 0.8077282020326076,
+                  "median_local_OLS_C_decade": 0.7442051282051277,
+                  "median_valid_years": 25.0,
+                  "mean_local_TheilSen_C_decade": 0.8189103219341969
+                },
+                "centre": {
+                  "coverage_pct": 100.0,
+                  "grid_cells": 31,
+                  "mean_local_OLS_C_decade": 0.681946855582022,
+                  "median_local_OLS_C_decade": 0.672434782608692,
+                  "median_valid_years": 23.0,
+                  "mean_local_TheilSen_C_decade": 0.6878130647282629
+                },
+                "primary_mean_on_shared_support": 0.7570562443765443,
+                "variant_mean_on_shared_support": 0.8117078077433081
+              },
+              "months2": {
+                "city": {
+                  "coverage_pct": 98.1292501617624,
+                  "grid_cells": 329,
+                  "mean_local_OLS_C_decade": 0.670114236679203,
+                  "median_local_OLS_C_decade": 0.6246949528563527,
+                  "median_valid_years": 24.0,
+                  "mean_local_TheilSen_C_decade": 0.6657066703999226
+                },
+                "centre": {
+                  "coverage_pct": 91.28599046791952,
+                  "grid_cells": 29,
+                  "mean_local_OLS_C_decade": 0.5835087312225664,
+                  "median_local_OLS_C_decade": 0.5930111742795565,
+                  "median_valid_years": 21.0,
+                  "mean_local_TheilSen_C_decade": 0.4617727793353447
+                },
+                "primary_mean_on_shared_support": 0.75754761203625,
+                "variant_mean_on_shared_support": 0.670114236679203
+              },
+              "qa3K": {
+                "city": {
+                  "coverage_pct": 100.0,
+                  "grid_cells": 334,
+                  "mean_local_OLS_C_decade": 0.7760129456012987,
+                  "median_local_OLS_C_decade": 0.7299487179487152,
+                  "median_valid_years": 25.0,
+                  "mean_local_TheilSen_C_decade": 0.7883800917576014
+                },
+                "centre": {
+                  "coverage_pct": 100.0,
+                  "grid_cells": 31,
+                  "mean_local_OLS_C_decade": 0.815420414646698,
+                  "median_local_OLS_C_decade": 0.8063076923076923,
+                  "median_valid_years": 25.0,
+                  "mean_local_TheilSen_C_decade": 0.8450889969125424
+                },
+                "primary_mean_on_shared_support": 0.7570562443765443,
+                "variant_mean_on_shared_support": 0.7762055918049267
+              }
+            },
+            "broader_quality": {
+              "city": {
+                "coverage_pct": 100.0,
+                "grid_cells": 334,
+                "mean_local_OLS_C_decade": 0.7760129456012987,
+                "median_local_OLS_C_decade": 0.7299487179487152,
+                "median_valid_years": 25.0,
+                "mean_local_TheilSen_C_decade": 0.7883800917576014,
+                "bootstrap": {
+                  "CI95_C_decade": [
+                    0.21794694556440183,
+                    1.6790719009431094
+                  ],
+                  "replicates": 2500,
+                  "block_years": 3,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "joint_HAC": {
+                  "CI95_C_decade": [
+                    -0.01096001200373653,
+                    1.562985903206334
+                  ],
+                  "SE_C_decade": 0.3804268785909032,
+                  "lag_years": 2,
+                  "df": 23,
+                  "method": "joint year scores with Bartlett HAC; finite-year t interval"
+                }
+              },
+              "centre": {
+                "coverage_pct": 100.0,
+                "grid_cells": 31,
+                "mean_local_OLS_C_decade": 0.815420414646698,
+                "median_local_OLS_C_decade": 0.8063076923076923,
+                "median_valid_years": 25.0,
+                "mean_local_TheilSen_C_decade": 0.8450889969125424,
+                "bootstrap": {
+                  "CI95_C_decade": [
+                    0.23982226278423682,
+                    1.6982016758561902
+                  ],
+                  "replicates": 2500,
+                  "block_years": 3,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "joint_HAC": {
+                  "CI95_C_decade": [
+                    0.018325036539127093,
+                    1.612515792754269
+                  ],
+                  "SE_C_decade": 0.38532011005248135,
+                  "lag_years": 2,
+                  "df": 23,
+                  "method": "joint year scores with Bartlett HAC; finite-year t interval"
+                }
+              }
+            },
+            "bootstrap_block_sensitivity": {
+              "city": {
+                "1": {
+                  "CI95_C_decade": [
+                    -0.09632195228734573,
+                    1.7265901808135988
+                  ],
+                  "replicates": 1200,
+                  "block_years": 1,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "5": {
+                  "CI95_C_decade": [
+                    0.03742545100229863,
+                    2.0473929745045463
+                  ],
+                  "replicates": 1200,
+                  "block_years": 5,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                }
+              },
+              "centre": {
+                "1": {
+                  "CI95_C_decade": [
+                    -0.3220908601895907,
+                    1.6922303736094775
+                  ],
+                  "replicates": 1200,
+                  "block_years": 1,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "5": {
+                  "CI95_C_decade": [
+                    -0.635627852845626,
+                    2.159161743186203
+                  ],
+                  "replicates": 1200,
+                  "block_years": 5,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                }
+              }
+            },
+            "pre_drift": {
+              "end_year": 2020,
+              "city": {
+                "coverage_pct": 91.76870071175392,
+                "grid_cells": 312,
+                "mean_local_OLS_C_decade": 1.435995208408014,
+                "median_local_OLS_C_decade": 1.4070426065162933,
+                "median_valid_years": 20.0,
+                "mean_local_TheilSen_C_decade": 1.5183263978467525,
+                "bootstrap": {
+                  "CI95_C_decade": [
+                    0.46234538322560625,
+                    2.7965453350582163
+                  ],
+                  "replicates": 2500,
+                  "block_years": 3,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "joint_HAC": {
+                  "CI95_C_decade": [
+                    0.4023039378910498,
+                    2.469686478924979
+                  ],
+                  "SE_C_decade": 0.49201790962142006,
+                  "lag_years": 2,
+                  "df": 18,
+                  "method": "joint year scores with Bartlett HAC; finite-year t interval"
+                }
+              },
+              "centre": {
+                "coverage_pct": 64.92148149647046,
+                "grid_cells": 21,
+                "mean_local_OLS_C_decade": 1.5610584503344829,
+                "median_local_OLS_C_decade": 1.56912915851272,
+                "median_valid_years": 16.0,
+                "mean_local_TheilSen_C_decade": 1.637180509508611,
+                "bootstrap": {
+                  "CI95_C_decade": [
+                    0.555145981726606,
+                    3.125923625542957
+                  ],
+                  "replicates": 2500,
+                  "block_years": 3,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "joint_HAC": {
+                  "CI95_C_decade": [
+                    0.5222864127550231,
+                    2.599830487913943
+                  ],
+                  "SE_C_decade": 0.4944362606907021,
+                  "lag_years": 2,
+                  "df": 18,
+                  "method": "joint year scores with Bartlett HAC; finite-year t interval"
+                }
+              },
+              "full_period_on_same_city_support": {
+                "coverage_pct": 91.76870071175392,
+                "grid_cells": 312,
+                "mean_local_OLS_C_decade": 0.7749030967157675,
+                "median_local_OLS_C_decade": 0.6950769230769245,
+                "median_valid_years": 25.0,
+                "mean_local_TheilSen_C_decade": 0.7695427110845809
+              },
+              "full_period_on_same_centre_support": {
+                "coverage_pct": 64.92148149647046,
+                "grid_cells": 21,
+                "mean_local_OLS_C_decade": 0.6490591141880978,
+                "median_local_OLS_C_decade": 0.6713863367597529,
+                "median_valid_years": 21.0,
+                "mean_local_TheilSen_C_decade": 0.5337582089640642
+              }
+            },
+            "all25_or23_complete_city": {
+              "coverage_pct": 57.25919393580694,
+              "grid_cells": 211,
+              "mean_local_OLS_C_decade": 0.7907192097583531,
+              "median_local_OLS_C_decade": 0.7354871794871821,
+              "median_valid_years": 25.0,
+              "mean_local_TheilSen_C_decade": 0.8147553620770225
+            },
+            "missing_year_stress": {
+              "patterns_tested": 6,
+              "mean_shift_C_decade": -0.23801285670686742,
+              "shift_min_max_C_decade": [
+                -0.4997260021515216,
+                -0.0692833472522395
+              ],
+              "meaning": "Observed centre missing-year patterns imposed on fully observed city pixels; diagnostic, not correction."
+            },
+            "observation_hours": {
+              "city": [
+                11.3,
+                10.0
+              ],
+              "centre": [
+                11.25,
+                10.0
+              ]
+            }
+          },
+          "night": {
+            "city": {
+              "coverage_pct": 64.81990563079157,
+              "grid_cells": 239,
+              "mean_local_OLS_C_decade": 0.921961793689548,
+              "median_local_OLS_C_decade": 0.9081538461538453,
+              "median_valid_years": 25.0,
+              "mean_local_TheilSen_C_decade": 0.8989744561470083,
+              "bootstrap": {
+                "CI95_C_decade": [
+                  0.46958899761152084,
+                  1.4982293690130013
+                ],
+                "replicates": 2500,
+                "block_years": 3,
+                "seed": 419,
+                "method": "circular pairs bootstrap of years; joint across pixels"
+              },
+              "joint_HAC": {
+                "CI95_C_decade": [
+                  0.4545682644308445,
+                  1.3893553229482514
+                ],
+                "SE_C_decade": 0.22594049730831164,
+                "lag_years": 2,
+                "df": 23,
+                "method": "joint year scores with Bartlett HAC; finite-year t interval"
+              }
+            },
+            "centre": {
+              "coverage_pct": 0.16183099444771254,
+              "grid_cells": 1,
+              "mean_local_OLS_C_decade": 1.0774587458745912,
+              "median_local_OLS_C_decade": 1.0774587458745912,
+              "median_valid_years": 24.0,
+              "mean_local_TheilSen_C_decade": 1.1044444444444543,
+              "bootstrap": {
+                "CI95_C_decade": [
+                  0.536211094628481,
+                  1.8367368661269425
+                ],
+                "replicates": 2500,
+                "block_years": 3,
+                "seed": 419,
+                "method": "circular pairs bootstrap of years; joint across pixels"
+              },
+              "joint_HAC": {
+                "CI95_C_decade": [
+                  0.5113502669767123,
+                  1.6435672247724702
+                ],
+                "SE_C_decade": 0.27365982463535965,
+                "lag_years": 2,
+                "df": 23,
+                "method": "joint year scores with Bartlett HAC; finite-year t interval"
+              }
+            },
+            "sensitivity": {
+              "primary": {
+                "city": {
+                  "coverage_pct": 64.81990563079157,
+                  "grid_cells": 239,
+                  "mean_local_OLS_C_decade": 0.921961793689548,
+                  "median_local_OLS_C_decade": 0.9081538461538453,
+                  "median_valid_years": 25.0,
+                  "mean_local_TheilSen_C_decade": 0.8989744561470083
+                },
+                "centre": {
+                  "coverage_pct": 0.16183099444771254,
+                  "grid_cells": 1,
+                  "mean_local_OLS_C_decade": 1.0774587458745912,
+                  "median_local_OLS_C_decade": 1.0774587458745912,
+                  "median_valid_years": 24.0,
+                  "mean_local_TheilSen_C_decade": 1.1044444444444543
+                },
+                "primary_mean_on_shared_support": 0.921961793689548,
+                "variant_mean_on_shared_support": 0.921961793689548
+              },
+              "days15": {
+                "city": {
+                  "coverage_pct": 68.73221393785232,
+                  "grid_cells": 250,
+                  "mean_local_OLS_C_decade": 0.9264477442655301,
+                  "median_local_OLS_C_decade": 0.9023076923076921,
+                  "median_valid_years": 25.0,
+                  "mean_local_TheilSen_C_decade": 0.9102011052551505
+                },
+                "centre": {
+                  "coverage_pct": 0.16183099444771254,
+                  "grid_cells": 1,
+                  "mean_local_OLS_C_decade": 1.023025641025643,
+                  "median_local_OLS_C_decade": 1.023025641025643,
+                  "median_valid_years": 25.0,
+                  "mean_local_TheilSen_C_decade": 0.9868589743589778
+                },
+                "primary_mean_on_shared_support": 0.921961793689548,
+                "variant_mean_on_shared_support": 0.9100873903410296
+              },
+              "months2": {
+                "city": {
+                  "coverage_pct": 64.81990563079157,
+                  "grid_cells": 239,
+                  "mean_local_OLS_C_decade": 0.921961793689548,
+                  "median_local_OLS_C_decade": 0.9081538461538453,
+                  "median_valid_years": 25.0,
+                  "mean_local_TheilSen_C_decade": 0.8989744561470083
+                },
+                "centre": {
+                  "coverage_pct": 0.16183099444771254,
+                  "grid_cells": 1,
+                  "mean_local_OLS_C_decade": 1.0774587458745912,
+                  "median_local_OLS_C_decade": 1.0774587458745912,
+                  "median_valid_years": 24.0,
+                  "mean_local_TheilSen_C_decade": 1.1044444444444543
+                },
+                "primary_mean_on_shared_support": 0.921961793689548,
+                "variant_mean_on_shared_support": 0.921961793689548
+              },
+              "qa3K": {
+                "city": {
+                  "coverage_pct": 77.75434327820675,
+                  "grid_cells": 274,
+                  "mean_local_OLS_C_decade": 0.9565120928959978,
+                  "median_local_OLS_C_decade": 0.9303846153846191,
+                  "median_valid_years": 25.0,
+                  "mean_local_TheilSen_C_decade": 0.9303563063086161
+                },
+                "centre": {
+                  "coverage_pct": 3.368283668585263,
+                  "grid_cells": 3,
+                  "mean_local_OLS_C_decade": 1.3103510764724282,
+                  "median_local_OLS_C_decade": 1.3358248068289071,
+                  "median_valid_years": 20.0,
+                  "mean_local_TheilSen_C_decade": 1.3583284722118634
+                },
+                "primary_mean_on_shared_support": 0.921961793689548,
+                "variant_mean_on_shared_support": 0.9051442141411994
+              }
+            },
+            "broader_quality": {
+              "city": {
+                "coverage_pct": 77.75434327820675,
+                "grid_cells": 274,
+                "mean_local_OLS_C_decade": 0.9565120928959978,
+                "median_local_OLS_C_decade": 0.9303846153846191,
+                "median_valid_years": 25.0,
+                "mean_local_TheilSen_C_decade": 0.9303563063086161,
+                "bootstrap": {
+                  "CI95_C_decade": [
+                    0.48857004243567015,
+                    1.5665286577865998
+                  ],
+                  "replicates": 2500,
+                  "block_years": 3,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "joint_HAC": {
+                  "CI95_C_decade": [
+                    0.4694884337016798,
+                    1.4435357520903158
+                  ],
+                  "SE_C_decade": 0.2354298056582024,
+                  "lag_years": 2,
+                  "df": 23,
+                  "method": "joint year scores with Bartlett HAC; finite-year t interval"
+                }
+              },
+              "centre": {
+                "coverage_pct": 3.368283668585263,
+                "grid_cells": 3,
+                "mean_local_OLS_C_decade": 1.3103510764724282,
+                "median_local_OLS_C_decade": 1.3358248068289071,
+                "median_valid_years": 20.0,
+                "mean_local_TheilSen_C_decade": 1.3583284722118634,
+                "bootstrap": {
+                  "CI95_C_decade": [
+                    0.5676224683403787,
+                    2.533241927807545
+                  ],
+                  "replicates": 2500,
+                  "block_years": 3,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "joint_HAC": {
+                  "CI95_C_decade": [
+                    0.4556653062658612,
+                    2.165036846678999
+                  ],
+                  "SE_C_decade": 0.41315960935335017,
+                  "lag_years": 2,
+                  "df": 23,
+                  "method": "joint year scores with Bartlett HAC; finite-year t interval"
+                }
+              }
+            },
+            "bootstrap_block_sensitivity": {
+              "city": {
+                "1": {
+                  "CI95_C_decade": [
+                    0.5161812878771045,
+                    1.4154524994872055
+                  ],
+                  "replicates": 1200,
+                  "block_years": 1,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "5": {
+                  "CI95_C_decade": [
+                    0.5669765846780577,
+                    1.483241662035429
+                  ],
+                  "replicates": 1200,
+                  "block_years": 5,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                }
+              },
+              "centre": {
+                "1": {
+                  "CI95_C_decade": [
+                    0.5387025015375494,
+                    1.764381555468643
+                  ],
+                  "replicates": 1200,
+                  "block_years": 1,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "5": {
+                  "CI95_C_decade": [
+                    0.6074162338697912,
+                    1.9891250487247214
+                  ],
+                  "replicates": 1200,
+                  "block_years": 5,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                }
+              }
+            },
+            "pre_drift": {
+              "end_year": 2020,
+              "city": {
+                "coverage_pct": 64.81990563079157,
+                "grid_cells": 239,
+                "mean_local_OLS_C_decade": 0.904951403416946,
+                "median_local_OLS_C_decade": 0.8719298245614016,
+                "median_valid_years": 20.0,
+                "mean_local_TheilSen_C_decade": 0.8662974328333908,
+                "bootstrap": {
+                  "CI95_C_decade": [
+                    0.1264133282317117,
+                    1.796839644081809
+                  ],
+                  "replicates": 2500,
+                  "block_years": 3,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "joint_HAC": {
+                  "CI95_C_decade": [
+                    0.2889774322700275,
+                    1.5209253745638645
+                  ],
+                  "SE_C_decade": 0.2931922076824174,
+                  "lag_years": 2,
+                  "df": 18,
+                  "method": "joint year scores with Bartlett HAC; finite-year t interval"
+                }
+              },
+              "centre": {
+                "coverage_pct": 0.16183099444771254,
+                "grid_cells": 1,
+                "mean_local_OLS_C_decade": 1.2877885391444832,
+                "median_local_OLS_C_decade": 1.2877885391444832,
+                "median_valid_years": 19.0,
+                "mean_local_TheilSen_C_decade": 1.325000000000004,
+                "bootstrap": {
+                  "CI95_C_decade": [
+                    0.45250224071250067,
+                    2.4427872350833524
+                  ],
+                  "replicates": 2500,
+                  "block_years": 3,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "joint_HAC": {
+                  "CI95_C_decade": [
+                    0.5394206034745421,
+                    2.036156474814417
+                  ],
+                  "SE_C_decade": 0.35620928398850893,
+                  "lag_years": 2,
+                  "df": 18,
+                  "method": "joint year scores with Bartlett HAC; finite-year t interval"
+                }
+              },
+              "full_period_on_same_city_support": {
+                "coverage_pct": 64.81990563079157,
+                "grid_cells": 239,
+                "mean_local_OLS_C_decade": 0.921961793689548,
+                "median_local_OLS_C_decade": 0.9081538461538453,
+                "median_valid_years": 25.0,
+                "mean_local_TheilSen_C_decade": 0.8989744561470083
+              },
+              "full_period_on_same_centre_support": {
+                "coverage_pct": 0.16183099444771254,
+                "grid_cells": 1,
+                "mean_local_OLS_C_decade": 1.0774587458745912,
+                "median_local_OLS_C_decade": 1.0774587458745912,
+                "median_valid_years": 24.0,
+                "mean_local_TheilSen_C_decade": 1.1044444444444543
+              }
+            },
+            "all25_or23_complete_city": {
+              "coverage_pct": 50.40253663477626,
+              "grid_cells": 188,
+              "mean_local_OLS_C_decade": 0.8808987194467435,
+              "median_local_OLS_C_decade": 0.8782820512820521,
+              "median_valid_years": 25.0,
+              "mean_local_TheilSen_C_decade": 0.8585248788943785
+            },
+            "missing_year_stress": {
+              "patterns_tested": 1,
+              "mean_shift_C_decade": 0.030181058252245596,
+              "shift_min_max_C_decade": [
+                0.030181058252245596,
+                0.030181058252245596
+              ],
+              "meaning": "Observed centre missing-year patterns imposed on fully observed city pixels; diagnostic, not correction."
+            },
+            "observation_hours": {
+              "city": [
+                21.900000000000002,
+                20.6
+              ],
+              "centre": [
+                21.900000000000002,
+                20.6
+              ]
+            }
+          }
+        }
+      },
+      "aqua": {
+        "years": [
+          2003,
+          2004,
+          2005,
+          2006,
+          2007,
+          2008,
+          2009,
+          2010,
+          2011,
+          2012,
+          2013,
+          2014,
+          2015,
+          2016,
+          2017,
+          2018,
+          2019,
+          2020,
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ],
+        "phases": {
+          "day": {
+            "city": {
+              "coverage_pct": 81.2982712641853,
+              "grid_cells": 284,
+              "mean_local_OLS_C_decade": 0.7906466594747316,
+              "median_local_OLS_C_decade": 0.7496706192358339,
+              "median_valid_years": 23.0,
+              "mean_local_TheilSen_C_decade": 0.9306352890968812,
+              "bootstrap": {
+                "CI95_C_decade": [
+                  -0.2948636796008221,
+                  2.1521209216446913
+                ],
+                "replicates": 2500,
+                "block_years": 3,
+                "seed": 419,
+                "method": "circular pairs bootstrap of years; joint across pixels"
+              },
+              "joint_HAC": {
+                "CI95_C_decade": [
+                  -0.14141279970969622,
+                  1.72270611865916
+                ],
+                "SE_C_decade": 0.44818871616354283,
+                "lag_years": 2,
+                "df": 21,
+                "method": "joint year scores with Bartlett HAC; finite-year t interval"
+              }
+            },
+            "centre": {
+              "coverage_pct": 6.464142794018708,
+              "grid_cells": 5,
+              "mean_local_OLS_C_decade": 0.2991511878685088,
+              "median_local_OLS_C_decade": 0.14669465711698765,
+              "median_valid_years": 19.0,
+              "mean_local_TheilSen_C_decade": 0.7714789221318509,
+              "bootstrap": {
+                "CI95_C_decade": [
+                  -0.9862848036016958,
+                  1.9487633590681366
+                ],
+                "replicates": 2500,
+                "block_years": 3,
+                "seed": 419,
+                "method": "circular pairs bootstrap of years; joint across pixels"
+              },
+              "joint_HAC": {
+                "CI95_C_decade": [
+                  -0.7029055921470855,
+                  1.3012079678840984
+                ],
+                "SE_C_decade": 0.4818475230659031,
+                "lag_years": 2,
+                "df": 21,
+                "method": "joint year scores with Bartlett HAC; finite-year t interval"
+              }
+            },
+            "sensitivity": {
+              "primary": {
+                "city": {
+                  "coverage_pct": 81.2982712641853,
+                  "grid_cells": 284,
+                  "mean_local_OLS_C_decade": 0.7906466594747316,
+                  "median_local_OLS_C_decade": 0.7496706192358339,
+                  "median_valid_years": 23.0,
+                  "mean_local_TheilSen_C_decade": 0.9306352890968812
+                },
+                "centre": {
+                  "coverage_pct": 6.464142794018708,
+                  "grid_cells": 5,
+                  "mean_local_OLS_C_decade": 0.2991511878685088,
+                  "median_local_OLS_C_decade": 0.14669465711698765,
+                  "median_valid_years": 19.0,
+                  "mean_local_TheilSen_C_decade": 0.7714789221318509
+                },
+                "primary_mean_on_shared_support": 0.7906466594747316,
+                "variant_mean_on_shared_support": 0.7906466594747316
+              },
+              "days15": {
+                "city": {
+                  "coverage_pct": 97.75510019411362,
+                  "grid_cells": 328,
+                  "mean_local_OLS_C_decade": 0.8226097317282408,
+                  "median_local_OLS_C_decade": 0.782938076416333,
+                  "median_valid_years": 23.0,
+                  "mean_local_TheilSen_C_decade": 0.9400157928702829
+                },
+                "centre": {
+                  "coverage_pct": 67.01570330063518,
+                  "grid_cells": 25,
+                  "mean_local_OLS_C_decade": 0.5936487937773496,
+                  "median_local_OLS_C_decade": 0.5672125554418318,
+                  "median_valid_years": 20.0,
+                  "mean_local_TheilSen_C_decade": 0.5970111623695695
+                },
+                "primary_mean_on_shared_support": 0.7906466594747316,
+                "variant_mean_on_shared_support": 0.810606907856594
+              },
+              "months2": {
+                "city": {
+                  "coverage_pct": 81.2982712641853,
+                  "grid_cells": 284,
+                  "mean_local_OLS_C_decade": 0.7906466594747316,
+                  "median_local_OLS_C_decade": 0.7496706192358339,
+                  "median_valid_years": 23.0,
+                  "mean_local_TheilSen_C_decade": 0.9306352890968812
+                },
+                "centre": {
+                  "coverage_pct": 6.464142794018708,
+                  "grid_cells": 5,
+                  "mean_local_OLS_C_decade": 0.2991511878685088,
+                  "median_local_OLS_C_decade": 0.14669465711698765,
+                  "median_valid_years": 19.0,
+                  "mean_local_TheilSen_C_decade": 0.7714789221318509
+                },
+                "primary_mean_on_shared_support": 0.7906466594747316,
+                "variant_mean_on_shared_support": 0.7906466594747316
+              },
+              "qa3K": {
+                "city": {
+                  "coverage_pct": 100.0,
+                  "grid_cells": 334,
+                  "mean_local_OLS_C_decade": 0.8542247278400341,
+                  "median_local_OLS_C_decade": 0.7995718050065804,
+                  "median_valid_years": 23.0,
+                  "mean_local_TheilSen_C_decade": 0.9946275048185143
+                },
+                "centre": {
+                  "coverage_pct": 100.0,
+                  "grid_cells": 31,
+                  "mean_local_OLS_C_decade": 0.749816334946299,
+                  "median_local_OLS_C_decade": 0.7347496706192371,
+                  "median_valid_years": 23.0,
+                  "mean_local_TheilSen_C_decade": 0.8517946007714282
+                },
+                "primary_mean_on_shared_support": 0.7906466594747316,
+                "variant_mean_on_shared_support": 0.8487856150383563
+              }
+            },
+            "broader_quality": {
+              "city": {
+                "coverage_pct": 100.0,
+                "grid_cells": 334,
+                "mean_local_OLS_C_decade": 0.8542247278400341,
+                "median_local_OLS_C_decade": 0.7995718050065804,
+                "median_valid_years": 23.0,
+                "mean_local_TheilSen_C_decade": 0.9946275048185143,
+                "bootstrap": {
+                  "CI95_C_decade": [
+                    -0.17446303122203538,
+                    2.1517495491822576
+                  ],
+                  "replicates": 2500,
+                  "block_years": 3,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "joint_HAC": {
+                  "CI95_C_decade": [
+                    -0.03347042607019535,
+                    1.7419198817502632
+                  ],
+                  "SE_C_decade": 0.4268557627468916,
+                  "lag_years": 2,
+                  "df": 21,
+                  "method": "joint year scores with Bartlett HAC; finite-year t interval"
+                }
+              },
+              "centre": {
+                "coverage_pct": 100.0,
+                "grid_cells": 31,
+                "mean_local_OLS_C_decade": 0.749816334946299,
+                "median_local_OLS_C_decade": 0.7347496706192371,
+                "median_valid_years": 23.0,
+                "mean_local_TheilSen_C_decade": 0.8517946007714282,
+                "bootstrap": {
+                  "CI95_C_decade": [
+                    -0.18441121438424918,
+                    1.8265031568282697
+                  ],
+                  "replicates": 2500,
+                  "block_years": 3,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "joint_HAC": {
+                  "CI95_C_decade": [
+                    0.005185636312186714,
+                    1.494447033580411
+                  ],
+                  "SE_C_decade": 0.35806200296364143,
+                  "lag_years": 2,
+                  "df": 21,
+                  "method": "joint year scores with Bartlett HAC; finite-year t interval"
+                }
+              }
+            },
+            "bootstrap_block_sensitivity": {
+              "city": {
+                "1": {
+                  "CI95_C_decade": [
+                    -0.2804771038610178,
+                    1.9365429908442182
+                  ],
+                  "replicates": 1200,
+                  "block_years": 1,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "5": {
+                  "CI95_C_decade": [
+                    -0.4798738130673288,
+                    2.181523352491872
+                  ],
+                  "replicates": 1200,
+                  "block_years": 5,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                }
+              },
+              "centre": {
+                "1": {
+                  "CI95_C_decade": [
+                    -0.9850764259115431,
+                    1.6944424637280713
+                  ],
+                  "replicates": 1200,
+                  "block_years": 1,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "5": {
+                  "CI95_C_decade": [
+                    -1.2156577893422071,
+                    2.351858149829835
+                  ],
+                  "replicates": 1200,
+                  "block_years": 5,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                }
+              }
+            },
+            "pre_drift": {
+              "end_year": 2021,
+              "city": {
+                "coverage_pct": 79.05337145830006,
+                "grid_cells": 278,
+                "mean_local_OLS_C_decade": 0.7418467627315997,
+                "median_local_OLS_C_decade": 0.6728070175438516,
+                "median_valid_years": 19.0,
+                "mean_local_TheilSen_C_decade": 0.8719592360396202,
+                "bootstrap": {
+                  "CI95_C_decade": [
+                    -0.9886582791598766,
+                    2.91939107968912
+                  ],
+                  "replicates": 2500,
+                  "block_years": 3,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "joint_HAC": {
+                  "CI95_C_decade": [
+                    -0.9213353411436267,
+                    2.405028866606827
+                  ],
+                  "SE_C_decade": 0.7883068649930242,
+                  "lag_years": 2,
+                  "df": 17,
+                  "method": "joint year scores with Bartlett HAC; finite-year t interval"
+                }
+              },
+              "centre": {
+                "coverage_pct": 1.3587112028305655,
+                "grid_cells": 4,
+                "mean_local_OLS_C_decade": 0.9296229278089412,
+                "median_local_OLS_C_decade": 0.969455354804923,
+                "median_valid_years": 18.0,
+                "mean_local_TheilSen_C_decade": 1.5435440924353727,
+                "bootstrap": {
+                  "CI95_C_decade": [
+                    -0.8830896734397574,
+                    3.4136777715105615
+                  ],
+                  "replicates": 2500,
+                  "block_years": 3,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "joint_HAC": {
+                  "CI95_C_decade": [
+                    -0.7708993445649179,
+                    2.6301452001827945
+                  ],
+                  "SE_C_decade": 0.8060051742153762,
+                  "lag_years": 2,
+                  "df": 17,
+                  "method": "joint year scores with Bartlett HAC; finite-year t interval"
+                }
+              },
+              "full_period_on_same_city_support": {
+                "coverage_pct": 79.05337145830006,
+                "grid_cells": 278,
+                "mean_local_OLS_C_decade": 0.7949668351404892,
+                "median_local_OLS_C_decade": 0.7496706192358339,
+                "median_valid_years": 23.0,
+                "mean_local_TheilSen_C_decade": 0.9332656779296403
+              },
+              "full_period_on_same_centre_support": {
+                "coverage_pct": 1.3587112028305655,
+                "grid_cells": 4,
+                "mean_local_OLS_C_decade": 0.8720149331296315,
+                "median_local_OLS_C_decade": 0.9372859025032911,
+                "median_valid_years": 22.0,
+                "mean_local_TheilSen_C_decade": 1.1295304647780866
+              }
+            },
+            "all25_or23_complete_city": {
+              "coverage_pct": 63.501602043231244,
+              "grid_cells": 235,
+              "mean_local_OLS_C_decade": 0.8253291587374078,
+              "median_local_OLS_C_decade": 0.7547760210803638,
+              "median_valid_years": 23.0,
+              "mean_local_TheilSen_C_decade": 0.9722760218322656
+            },
+            "missing_year_stress": {
+              "patterns_tested": 3,
+              "mean_shift_C_decade": -0.1861843383771372,
+              "shift_min_max_C_decade": [
+                -0.33276357262435025,
+                0.0
+              ],
+              "meaning": "Observed centre missing-year patterns imposed on fully observed city pixels; diagnostic, not correction."
+            },
+            "observation_hours": {
+              "city": [
+                12.8,
+                14.0
+              ],
+              "centre": [
+                12.95,
+                14.0
+              ]
+            }
+          },
+          "night": {
+            "city": {
+              "coverage_pct": 80.91835164997163,
+              "grid_cells": 283,
+              "mean_local_OLS_C_decade": 0.28035964893902343,
+              "median_local_OLS_C_decade": 0.276218708827406,
+              "median_valid_years": 23.0,
+              "mean_local_TheilSen_C_decade": 0.2922744594159597,
+              "bootstrap": {
+                "CI95_C_decade": [
+                  -0.19216912378158882,
+                  0.837203801059134
+                ],
+                "replicates": 2500,
+                "block_years": 3,
+                "seed": 419,
+                "method": "circular pairs bootstrap of years; joint across pixels"
+              },
+              "joint_HAC": {
+                "CI95_C_decade": [
+                  -0.14712933780568688,
+                  0.7078486356837341
+                ],
+                "SE_C_decade": 0.20556171417520502,
+                "lag_years": 2,
+                "df": 21,
+                "method": "joint year scores with Bartlett HAC; finite-year t interval"
+              }
+            },
+            "centre": {
+              "coverage_pct": 4.55905164619367,
+              "grid_cells": 5,
+              "mean_local_OLS_C_decade": 0.12210720283116584,
+              "median_local_OLS_C_decade": 0.09672701643099627,
+              "median_valid_years": 19.0,
+              "mean_local_TheilSen_C_decade": 0.11242138805496033,
+              "bootstrap": {
+                "CI95_C_decade": [
+                  -0.48028203441226736,
+                  0.8125994814460374
+                ],
+                "replicates": 2500,
+                "block_years": 3,
+                "seed": 419,
+                "method": "circular pairs bootstrap of years; joint across pixels"
+              },
+              "joint_HAC": {
+                "CI95_C_decade": [
+                  -0.3791519547754579,
+                  0.6233663604377899
+                ],
+                "SE_C_decade": 0.24103472809504334,
+                "lag_years": 2,
+                "df": 21,
+                "method": "joint year scores with Bartlett HAC; finite-year t interval"
+              }
+            },
+            "sensitivity": {
+              "primary": {
+                "city": {
+                  "coverage_pct": 80.91835164997163,
+                  "grid_cells": 283,
+                  "mean_local_OLS_C_decade": 0.28035964893902343,
+                  "median_local_OLS_C_decade": 0.276218708827406,
+                  "median_valid_years": 23.0,
+                  "mean_local_TheilSen_C_decade": 0.2922744594159597
+                },
+                "centre": {
+                  "coverage_pct": 4.55905164619367,
+                  "grid_cells": 5,
+                  "mean_local_OLS_C_decade": 0.12210720283116584,
+                  "median_local_OLS_C_decade": 0.09672701643099627,
+                  "median_valid_years": 19.0,
+                  "mean_local_TheilSen_C_decade": 0.11242138805496033
+                },
+                "primary_mean_on_shared_support": 0.28035964893902343,
+                "variant_mean_on_shared_support": 0.28035964893902343
+              },
+              "days15": {
+                "city": {
+                  "coverage_pct": 96.6326502911716,
+                  "grid_cells": 325,
+                  "mean_local_OLS_C_decade": 0.2537143932807511,
+                  "median_local_OLS_C_decade": 0.2560606060606057,
+                  "median_valid_years": 23.0,
+                  "mean_local_TheilSen_C_decade": 0.26723055751292224
+                },
+                "centre": {
+                  "coverage_pct": 64.87685070863813,
+                  "grid_cells": 23,
+                  "mean_local_OLS_C_decade": 0.08066280960231247,
+                  "median_local_OLS_C_decade": 0.06244865116672906,
+                  "median_valid_years": 20.0,
+                  "mean_local_TheilSen_C_decade": 0.06246641775118755
+                },
+                "primary_mean_on_shared_support": 0.28035964893902343,
+                "variant_mean_on_shared_support": 0.2920365632838508
+              },
+              "months2": {
+                "city": {
+                  "coverage_pct": 80.91835164997163,
+                  "grid_cells": 283,
+                  "mean_local_OLS_C_decade": 0.28035964893902343,
+                  "median_local_OLS_C_decade": 0.276218708827406,
+                  "median_valid_years": 23.0,
+                  "mean_local_TheilSen_C_decade": 0.2922744594159597
+                },
+                "centre": {
+                  "coverage_pct": 4.55905164619367,
+                  "grid_cells": 5,
+                  "mean_local_OLS_C_decade": 0.12210720283116584,
+                  "median_local_OLS_C_decade": 0.09672701643099627,
+                  "median_valid_years": 19.0,
+                  "mean_local_TheilSen_C_decade": 0.11242138805496033
+                },
+                "primary_mean_on_shared_support": 0.28035964893902343,
+                "variant_mean_on_shared_support": 0.28035964893902343
+              },
+              "qa3K": {
+                "city": {
+                  "coverage_pct": 99.25170006470536,
+                  "grid_cells": 332,
+                  "mean_local_OLS_C_decade": 0.30050212874672383,
+                  "median_local_OLS_C_decade": 0.3050724637681182,
+                  "median_valid_years": 23.0,
+                  "mean_local_TheilSen_C_decade": 0.3149895195177695
+                },
+                "centre": {
+                  "coverage_pct": 94.5066554673759,
+                  "grid_cells": 29,
+                  "mean_local_OLS_C_decade": 0.2434788581334275,
+                  "median_local_OLS_C_decade": 0.27140974967061726,
+                  "median_valid_years": 23.0,
+                  "mean_local_TheilSen_C_decade": 0.24198974519928215
+                },
+                "primary_mean_on_shared_support": 0.28035964893902343,
+                "variant_mean_on_shared_support": 0.31456112083078897
+              }
+            },
+            "broader_quality": {
+              "city": {
+                "coverage_pct": 99.25170006470536,
+                "grid_cells": 332,
+                "mean_local_OLS_C_decade": 0.30050212874672383,
+                "median_local_OLS_C_decade": 0.3050724637681182,
+                "median_valid_years": 23.0,
+                "mean_local_TheilSen_C_decade": 0.3149895195177695,
+                "bootstrap": {
+                  "CI95_C_decade": [
+                    -0.21396169446669933,
+                    0.8568920063411339
+                  ],
+                  "replicates": 2500,
+                  "block_years": 3,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "joint_HAC": {
+                  "CI95_C_decade": [
+                    -0.14936324457486377,
+                    0.7503675020683112
+                  ],
+                  "SE_C_decade": 0.21632158992502587,
+                  "lag_years": 2,
+                  "df": 21,
+                  "method": "joint year scores with Bartlett HAC; finite-year t interval"
+                }
+              },
+              "centre": {
+                "coverage_pct": 94.5066554673759,
+                "grid_cells": 29,
+                "mean_local_OLS_C_decade": 0.2434788581334275,
+                "median_local_OLS_C_decade": 0.27140974967061726,
+                "median_valid_years": 23.0,
+                "mean_local_TheilSen_C_decade": 0.24198974519928215,
+                "bootstrap": {
+                  "CI95_C_decade": [
+                    -0.3508452483323929,
+                    0.8507659055384342
+                  ],
+                  "replicates": 2500,
+                  "block_years": 3,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "joint_HAC": {
+                  "CI95_C_decade": [
+                    -0.26395058365897767,
+                    0.7509082999258316
+                  ],
+                  "SE_C_decade": 0.24400176171112736,
+                  "lag_years": 2,
+                  "df": 21,
+                  "method": "joint year scores with Bartlett HAC; finite-year t interval"
+                }
+              }
+            },
+            "bootstrap_block_sensitivity": {
+              "city": {
+                "1": {
+                  "CI95_C_decade": [
+                    -0.26292416810936425,
+                    0.8993539905246555
+                  ],
+                  "replicates": 1200,
+                  "block_years": 1,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "5": {
+                  "CI95_C_decade": [
+                    -0.16200342487736685,
+                    0.8077591611841746
+                  ],
+                  "replicates": 1200,
+                  "block_years": 5,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                }
+              },
+              "centre": {
+                "1": {
+                  "CI95_C_decade": [
+                    -0.5383349176844172,
+                    0.9066620092172869
+                  ],
+                  "replicates": 1200,
+                  "block_years": 1,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "5": {
+                  "CI95_C_decade": [
+                    -0.5503278813106333,
+                    0.812198554242812
+                  ],
+                  "replicates": 1200,
+                  "block_years": 5,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                }
+              }
+            },
+            "pre_drift": {
+              "end_year": 2021,
+              "city": {
+                "coverage_pct": 79.42175177938111,
+                "grid_cells": 279,
+                "mean_local_OLS_C_decade": 0.37817767364165417,
+                "median_local_OLS_C_decade": 0.3783040935672517,
+                "median_valid_years": 19.0,
+                "mean_local_TheilSen_C_decade": 0.32096646921482247,
+                "bootstrap": {
+                  "CI95_C_decade": [
+                    -0.26552294403197524,
+                    1.0789228987100374
+                  ],
+                  "replicates": 2500,
+                  "block_years": 3,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "joint_HAC": {
+                  "CI95_C_decade": [
+                    -0.19008982628380894,
+                    0.946445173567118
+                  ],
+                  "SE_C_decade": 0.26934463177537454,
+                  "lag_years": 2,
+                  "df": 17,
+                  "method": "joint year scores with Bartlett HAC; finite-year t interval"
+                }
+              },
+              "centre": {
+                "coverage_pct": 1.7270692557553784,
+                "grid_cells": 4,
+                "mean_local_OLS_C_decade": 0.2757126627632231,
+                "median_local_OLS_C_decade": 0.23894736842104647,
+                "median_valid_years": 19.0,
+                "mean_local_TheilSen_C_decade": 0.20704938189562408,
+                "bootstrap": {
+                  "CI95_C_decade": [
+                    -0.37949676735825805,
+                    1.0518119892177804
+                  ],
+                  "replicates": 2500,
+                  "block_years": 3,
+                  "seed": 419,
+                  "method": "circular pairs bootstrap of years; joint across pixels"
+                },
+                "joint_HAC": {
+                  "CI95_C_decade": [
+                    -0.26810380844786386,
+                    0.8195291339743161
+                  ],
+                  "SE_C_decade": 0.2577554535688682,
+                  "lag_years": 2,
+                  "df": 17,
+                  "method": "joint year scores with Bartlett HAC; finite-year t interval"
+                }
+              },
+              "full_period_on_same_city_support": {
+                "coverage_pct": 79.42175177938111,
+                "grid_cells": 279,
+                "mean_local_OLS_C_decade": 0.2861212157163901,
+                "median_local_OLS_C_decade": 0.2791172595520443,
+                "median_valid_years": 23.0,
+                "mean_local_TheilSen_C_decade": 0.2980777338506988
+              },
+              "full_period_on_same_centre_support": {
+                "coverage_pct": 1.7270692557553784,
+                "grid_cells": 4,
+                "mean_local_OLS_C_decade": 0.16372466588992696,
+                "median_local_OLS_C_decade": 0.15586297760210924,
+                "median_valid_years": 23.0,
+                "mean_local_TheilSen_C_decade": 0.10849673800742274
+              }
+            },
+            "all25_or23_complete_city": {
+              "coverage_pct": 68.08227727208434,
+              "grid_cells": 248,
+              "mean_local_OLS_C_decade": 0.3052395746035591,
+              "median_local_OLS_C_decade": 0.292457180500661,
+              "median_valid_years": 23.0,
+              "mean_local_TheilSen_C_decade": 0.3152004002460635
+            },
+            "missing_year_stress": {
+              "patterns_tested": 5,
+              "mean_shift_C_decade": -0.13174626500489026,
+              "shift_min_max_C_decade": [
+                -0.2567448775205155,
+                0.0
+              ],
+              "meaning": "Observed centre missing-year patterns imposed on fully observed city pixels; diagnostic, not correction."
+            },
+            "observation_hours": {
+              "city": [
+                2.2,
+                3.4000000000000004
+              ],
+              "centre": [
+                2.3500000000000005,
+                3.6
+              ]
+            }
+          }
+        }
+      }
+    },
+    "mod21_pilot": [
+      {
+        "year": 2001,
+        "phase": "day",
+        "source": "MOD21A1D",
+        "criteria": "QA per MOD21 v6.1 guide table11; <=2K and <=0.02 emissivity error; clear, good L1B; >=20 days/all months",
+        "stages": {
+          "available": {
+            "median_days": 26.0,
+            "qualified_centre_area_pct": 94.44002318653061
+          },
+          "mandatory": {
+            "median_days": 26.0,
+            "qualified_centre_area_pct": 94.44002318653061
+          },
+          "data_quality": {
+            "median_days": 26.0,
+            "qualified_centre_area_pct": 94.44002318653061
+          },
+          "cloud_free": {
+            "median_days": 15.0,
+            "qualified_centre_area_pct": 0.0
+          },
+          "quality2K": {
+            "median_days": 15.0,
+            "qualified_centre_area_pct": 0.0
+          }
+        }
+      },
+      {
+        "year": 2001,
+        "phase": "night",
+        "source": "MOD21A1N",
+        "criteria": "QA per MOD21 v6.1 guide table11; <=2K and <=0.02 emissivity error; clear, good L1B; >=20 days/all months",
+        "stages": {
+          "available": {
+            "median_days": 11.0,
+            "qualified_centre_area_pct": 0.0
+          },
+          "mandatory": {
+            "median_days": 11.0,
+            "qualified_centre_area_pct": 0.0
+          },
+          "data_quality": {
+            "median_days": 11.0,
+            "qualified_centre_area_pct": 0.0
+          },
+          "cloud_free": {
+            "median_days": 0.0,
+            "qualified_centre_area_pct": 0.0
+          },
+          "quality2K": {
+            "median_days": 0.0,
+            "qualified_centre_area_pct": 0.0
+          }
+        }
+      },
+      {
+        "year": 2025,
+        "phase": "day",
+        "source": "MOD21A1D",
+        "criteria": "QA per MOD21 v6.1 guide table11; <=2K and <=0.02 emissivity error; clear, good L1B; >=20 days/all months",
+        "stages": {
+          "available": {
+            "median_days": 40.0,
+            "qualified_centre_area_pct": 100.0
+          },
+          "mandatory": {
+            "median_days": 40.0,
+            "qualified_centre_area_pct": 100.0
+          },
+          "data_quality": {
+            "median_days": 6.0,
+            "qualified_centre_area_pct": 0.0
+          },
+          "cloud_free": {
+            "median_days": 3.0,
+            "qualified_centre_area_pct": 0.0
+          },
+          "quality2K": {
+            "median_days": 3.0,
+            "qualified_centre_area_pct": 0.0
+          }
+        }
+      },
+      {
+        "year": 2025,
+        "phase": "night",
+        "source": "MOD21A1N",
+        "criteria": "QA per MOD21 v6.1 guide table11; <=2K and <=0.02 emissivity error; clear, good L1B; >=20 days/all months",
+        "stages": {
+          "available": {
+            "median_days": 19.0,
+            "qualified_centre_area_pct": 18.66963064024545
+          },
+          "mandatory": {
+            "median_days": 19.0,
+            "qualified_centre_area_pct": 18.66963064024545
+          },
+          "data_quality": {
+            "median_days": 0.0,
+            "qualified_centre_area_pct": 0.0
+          },
+          "cloud_free": {
+            "median_days": 0.0,
+            "qualified_centre_area_pct": 0.0
+          },
+          "quality2K": {
+            "median_days": 0.0,
+            "qualified_centre_area_pct": 0.0
+          }
+        }
+      }
+    ],
+    "cross_source_matched_support": {
+      "day": {
+        "city_coverage_pct": 78.30507152300494,
+        "terra_mean_C_decade": 0.5837970637083095,
+        "aqua_mean_C_decade": 0.7846877390121133,
+        "meaning": "Same pixels and observed summers, 2003-2025; distinct local observation times."
+      },
+      "night": {
+        "city_coverage_pct": 64.07160569549607,
+        "terra_mean_C_decade": 1.0509588486143524,
+        "aqua_mean_C_decade": 0.30460226565567294,
+        "meaning": "Same pixels and observed summers, 2003-2025; distinct local observation times."
+      }
+    }
+  },
+  "meaning": "Clear-sky land-surface temperature; not air temperature or causal climate attribution."
+}

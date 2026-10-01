@@ -1,0 +1,33 @@
+{
+  "pages": 2,
+  "format": "A4",
+  "text_box_count": 48,
+  "text_boxes_inside_margins": true,
+  "text_overlap_assertions_passed": true,
+  "visual_inspection": "Both final A4 pages and principal maps inspected; no clipping or overlap.",
+  "vector_summary": true,
+  "vector_map_labels_and_boundaries": true,
+  "native_raster_retained": true,
+  "explicit_historical_comparison": true,
+  "tests_passed": 17,
+  "geolocation_points_matched": 6,
+  "all_output_rasters_checked": 46,
+  "balanced_trends_recomputed_from_cubes": true,
+  "all_29_districts_both_quality_variants": true,
+  "embedded_source_links": 13,
+  "vector_summary_verified": true,
+  "morning_selection_explained": true,
+  "plain_language_trend_summary": true,
+  "assignment_requirements_present": [
+    "satellite_tools_and_cost",
+    "adaptation",
+    "mitigation",
+    "weather_and_usable_revisit",
+    "commercial_data_decision",
+    "comparison_limits"
+  ],
+  "native_map_pixels_verified": true,
+  "map_vector_paths_verified": true,
+  "historical_maps_identical_support_verified": true,
+  "historical_pixelwise_subtraction_verified": true
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "year": 2001,
+    "phase": "day",
+    "source": "MOD21A1D",
+    "criteria": "QA per MOD21 v6.1 guide table11; <=2K and <=0.02 emissivity error; clear, good L1B; >=20 days/all months",
+    "stages": {
+      "available": {
+        "median_days": 26.0,
+        "qualified_centre_area_pct": 94.44002318653061
+      },
+      "mandatory": {
+        "median_days": 26.0,
+        "qualified_centre_area_pct": 94.44002318653061
+      },
+      "data_quality": {
+        "median_days": 26.0,
+        "qualified_centre_area_pct": 94.44002318653061
+      },
+      "cloud_free": {
+        "median_days": 15.0,
+        "qualified_centre_area_pct": 0.0
+      },
+      "quality2K": {
+        "median_days": 15.0,
+        "qualified_centre_area_pct": 0.0
+      }
+    }
+  },
+  {
+    "year": 2001,
+    "phase": "night",
+    "source": "MOD21A1N",
+    "criteria": "QA per MOD21 v6.1 guide table11; <=2K and <=0.02 emissivity error; clear, good L1B; >=20 days/all months",
+    "stages": {
+      "available": {
+        "median_days": 11.0,
+        "qualified_centre_area_pct": 0.0
+      },
+      "mandatory": {
+        "median_days": 11.0,
+        "qualified_centre_area_pct": 0.0
+      },
+      "data_quality": {
+        "median_days": 11.0,
+        "qualified_centre_area_pct": 0.0
+      },
+      "cloud_free": {
+        "median_days": 0.0,
+        "qualified_centre_area_pct": 0.0
+      },
+      "quality2K": {
+        "median_days": 0.0,
+        "qualified_centre_area_pct": 0.0
+      }
+    }
+  },
+  {
+    "year": 2025,
+    "phase": "day",
+    "source": "MOD21A1D",
+    "criteria": "QA per MOD21 v6.1 guide table11; <=2K and <=0.02 emissivity error; clear, good L1B; >=20 days/all months",
+    "stages": {
+      "available": {
+        "median_days": 40.0,
+        "qualified_centre_area_pct": 100.0
+      },
+      "mandatory": {
+        "median_days": 40.0,
+        "qualified_centre_area_pct": 100.0
+      },
+      "data_quality": {
+        "median_days": 6.0,
+        "qualified_centre_area_pct": 0.0
+      },
+      "cloud_free": {
+        "median_days": 3.0,
+        "qualified_centre_area_pct": 0.0
+      },
+      "quality2K": {
+        "median_days": 3.0,
+        "qualified_centre_area_pct": 0.0
+      }
+    }
+  },
+  {
+    "year": 2025,
+    "phase": "night",
+    "source": "MOD21A1N",
+    "criteria": "QA per MOD21 v6.1 guide table11; <=2K and <=0.02 emissivity error; clear, good L1B; >=20 days/all months",
+    "stages": {
+      "available": {
+        "median_days": 19.0,
+        "qualified_centre_area_pct": 18.66963064024545
+      },
+      "mandatory": {
+        "median_days": 19.0,
+        "qualified_centre_area_pct": 18.66963064024545
+      },
+      "data_quality": {
+        "median_days": 0.0,
+        "qualified_centre_area_pct": 0.0
+      },
+      "cloud_free": {
+        "median_days": 0.0,
+        "qualified_centre_area_pct": 0.0
+      },
+      "quality2K": {
+        "median_days": 0.0,
+        "qualified_centre_area_pct": 0.0
+      }
+    }
+  }
+]

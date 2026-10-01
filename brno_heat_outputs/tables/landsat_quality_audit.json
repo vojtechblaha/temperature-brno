@@ -1,0 +1,119 @@
+{
+  "broad_QA_K": 5,
+  "strict_QA_K": 3,
+  "min_years": 3,
+  "min_total_dates": 5,
+  "broad_coverage_pct": 98.22029257607761,
+  "shared_reference_coverage_pct": 73.90323085347728,
+  "broad_early_reference_C": 31.16995620727539,
+  "broad_recent_reference_C": 32.51836395263672,
+  "shared_filter_correlation": 0.6287823019966952,
+  "median_abs_filter_difference_C": 1.1125640869140625,
+  "classes": {
+    "0": {
+      "label": "Insufficient observations",
+      "area_pct": 1.779707423922397
+    },
+    "1": {
+      "label": "Broader filter only",
+      "area_pct": 24.31706172260033
+    },
+    "2": {
+      "label": "Small or filter-sensitive",
+      "area_pct": 64.80208088868028
+    },
+    "3": {
+      "label": "Relative decrease >=2 C under both filters",
+      "area_pct": 4.828287569428147
+    },
+    "4": {
+      "label": "Relative increase >=2 C under both filters",
+      "area_pct": 4.272862395368849
+    }
+  },
+  "sequential_exclusions": {
+    "0": {
+      "label": "Passes strict comparison",
+      "area_pct": 73.90323085347728
+    },
+    "1": {
+      "label": "Too few retrieval dates or years",
+      "area_pct": 1.1957287021825862
+    },
+    "2": {
+      "label": "Cloud/shadow/saturation/distance screen",
+      "area_pct": 0.5742001095204569
+    },
+    "3": {
+      "label": "Additional ST_QA <=5 K screen",
+      "area_pct": 0.00977861221935383
+    },
+    "4": {
+      "label": "Additional ST_QA <=3 K screen",
+      "area_pct": 24.31706172260033
+    }
+  },
+  "interpretation": "Filter agreement is a sensitivity check, not statistical significance or validation.",
+  "district_priority_screen": [
+    {
+      "district": "Brno-střed",
+      "city_grid_area_km2": 14.6349,
+      "recent_coverage_pct": 99.8831560174651,
+      "recent_median_anomaly_C": 4.09649658203125,
+      "hotspot_threshold_anomaly_C": 5.1013946533203125,
+      "hotspot_share_of_observed_pct": 37.28604851619259,
+      "strict_change_coverage_pct": 19.740483365106698,
+      "broad_change_coverage_pct": 90.8615706291126,
+      "increase_both_filters_pct": 1.1499907754750631,
+      "decrease_both_filters_pct": 0.46122624684828734
+    },
+    {
+      "district": "Brno-Černovice",
+      "city_grid_area_km2": 6.2946,
+      "recent_coverage_pct": 100.0,
+      "recent_median_anomaly_C": 3.98199462890625,
+      "hotspot_threshold_anomaly_C": 5.1013946533203125,
+      "hotspot_share_of_observed_pct": 32.01315413211324,
+      "strict_change_coverage_pct": 93.09408064054904,
+      "broad_change_coverage_pct": 100.0,
+      "increase_both_filters_pct": 29.59679725478982,
+      "decrease_both_filters_pct": 0.042893909064912784
+    },
+    {
+      "district": "Brno-jih",
+      "city_grid_area_km2": 12.7872,
+      "recent_coverage_pct": 99.71143018018019,
+      "recent_median_anomaly_C": 3.7905845642089844,
+      "hotspot_threshold_anomaly_C": 5.1013946533203125,
+      "hotspot_share_of_observed_pct": 31.058092750758806,
+      "strict_change_coverage_pct": 52.744932432432435,
+      "broad_change_coverage_pct": 99.7606981981982,
+      "increase_both_filters_pct": 3.265765765765766,
+      "decrease_both_filters_pct": 1.8721846846846846
+    },
+    {
+      "district": "Brno-Slatina",
+      "city_grid_area_km2": 5.8248,
+      "recent_coverage_pct": 100.0,
+      "recent_median_anomaly_C": 3.263355255126953,
+      "hotspot_threshold_anomaly_C": 5.1013946533203125,
+      "hotspot_share_of_observed_pct": 28.84734239802225,
+      "strict_change_coverage_pct": 99.86093943139679,
+      "broad_change_coverage_pct": 100.0,
+      "increase_both_filters_pct": 15.528430160692213,
+      "decrease_both_filters_pct": 0.7107540173053152
+    },
+    {
+      "district": "Brno-Židenice",
+      "city_grid_area_km2": 5.0427,
+      "recent_coverage_pct": 100.0,
+      "recent_median_anomaly_C": 3.8350181579589844,
+      "hotspot_threshold_anomaly_C": 5.1013946533203125,
+      "hotspot_share_of_observed_pct": 27.59236123505265,
+      "strict_change_coverage_pct": 97.6976619668035,
+      "broad_change_coverage_pct": 100.0,
+      "increase_both_filters_pct": 10.3694449402106,
+      "decrease_both_filters_pct": 2.3915759414599322
+    }
+  ]
+}

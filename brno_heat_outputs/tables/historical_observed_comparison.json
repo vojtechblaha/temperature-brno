@@ -1,0 +1,352 @@
+{
+  "early_period": [
+    2001,
+    2005
+  ],
+  "recent_period": [
+    2021,
+    2025
+  ],
+  "definition": "Pixelwise difference of period medians of annual clear-sky LST medians: recent minus early; no baseline subtraction.",
+  "quality": "Exploratory 5 K ST_QA; cloud/shadow/saturation screen; cloud distance >=0.5 km; >=3 valid years and >=5 distinct dates in each period.",
+  "interpretation": "Observed sampled-surface differences; weather, sensor and clear-sky selection effects are not removed. Not a climate-only change or a significance map.",
+  "city": {
+    "area_coverage_5K_pct": 98.2202925760776,
+    "area_coverage_3K_pct": 73.90323085347727,
+    "median_paired_difference_5K_C": 1.387716293334961,
+    "early_surface_median_5K_C": 31.352819442749023,
+    "recent_surface_median_5K_C": 32.808895111083984,
+    "shared_support_median_difference_3K_C": 1.2168149948120117,
+    "shared_support_median_difference_5K_C": 1.2834663391113281,
+    "median_abs_filter_difference_on_shared_support_C": 1.1040229797363281
+  },
+  "districts": [
+    {
+      "district": "Brno-Kohoutovice",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 21.538800705467374,
+      "median_paired_difference_5K_C": 1.116837501525879,
+      "early_surface_median_5K_C": 28.8892822265625,
+      "recent_surface_median_5K_C": 29.46179962158203,
+      "shared_support_median_difference_3K_C": 2.6318740844726562,
+      "shared_support_median_difference_5K_C": 1.6987552642822266,
+      "median_abs_filter_difference_on_shared_support_C": 1.0578765869140625
+    },
+    {
+      "district": "Brno-Černovice",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 93.09408064054904,
+      "median_paired_difference_5K_C": 3.1813220977783203,
+      "early_surface_median_5K_C": 33.43097686767578,
+      "recent_surface_median_5K_C": 36.746456146240234,
+      "shared_support_median_difference_3K_C": 3.1753387451171875,
+      "shared_support_median_difference_5K_C": 3.1838855743408203,
+      "median_abs_filter_difference_on_shared_support_C": 1.0544586181640625
+    },
+    {
+      "district": "Brno-Bohunice",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 35.280095351609056,
+      "median_paired_difference_5K_C": 1.5082025527954102,
+      "early_surface_median_5K_C": 32.52007293701172,
+      "recent_surface_median_5K_C": 34.14534378051758,
+      "shared_support_median_difference_3K_C": -0.0008535385131835938,
+      "shared_support_median_difference_5K_C": 1.138199806213379,
+      "median_abs_filter_difference_on_shared_support_C": 1.450948715209961
+    },
+    {
+      "district": "Brno-Bosonohy",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 53.82389937106918,
+      "median_paired_difference_5K_C": 1.1552925109863281,
+      "early_surface_median_5K_C": 30.69912338256836,
+      "recent_surface_median_5K_C": 31.482704162597656,
+      "shared_support_median_difference_3K_C": -0.25037097930908203,
+      "shared_support_median_difference_5K_C": 0.9912261962890625,
+      "median_abs_filter_difference_on_shared_support_C": 1.6141595840454102
+    },
+    {
+      "district": "Brno-Chrlice",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 81.67410078770048,
+      "median_paired_difference_5K_C": 1.5124740600585938,
+      "early_surface_median_5K_C": 32.829402923583984,
+      "recent_surface_median_5K_C": 34.08723449707031,
+      "shared_support_median_difference_3K_C": 0.9463634490966797,
+      "shared_support_median_difference_5K_C": 1.5569067001342773,
+      "median_abs_filter_difference_on_shared_support_C": 1.6679916381835938
+    },
+    {
+      "district": "Brno-Ivanovice",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 85.92017738359202,
+      "median_paired_difference_5K_C": -0.1375751495361328,
+      "early_surface_median_5K_C": 32.40386199951172,
+      "recent_surface_median_5K_C": 31.742473602294922,
+      "shared_support_median_difference_3K_C": 0.3999061584472656,
+      "shared_support_median_difference_5K_C": -0.2768592834472656,
+      "median_abs_filter_difference_on_shared_support_C": 1.1159858703613281
+    },
+    {
+      "district": "Brno-Líšeň",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 99.85082334040966,
+      "median_paired_difference_5K_C": 1.334737777709961,
+      "early_surface_median_5K_C": 30.976837158203125,
+      "recent_surface_median_5K_C": 32.627742767333984,
+      "shared_support_median_difference_3K_C": 2.004669189453125,
+      "shared_support_median_difference_5K_C": 1.3364448547363281,
+      "median_abs_filter_difference_on_shared_support_C": 1.1194000244140625
+    },
+    {
+      "district": "Brno-Útěchov",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 99.9223602484472,
+      "median_paired_difference_5K_C": 0.5708093643188477,
+      "early_surface_median_5K_C": 27.09054946899414,
+      "recent_surface_median_5K_C": 27.56394386291504,
+      "shared_support_median_difference_3K_C": 1.3091011047363281,
+      "shared_support_median_difference_5K_C": 0.5708103179931641,
+      "median_abs_filter_difference_on_shared_support_C": 1.1416206359863281
+    },
+    {
+      "district": "Brno-Bystrc",
+      "area_coverage_5K_pct": 93.81364898822908,
+      "area_coverage_3K_pct": 81.80134902790635,
+      "median_paired_difference_5K_C": 0.21875381469726562,
+      "early_surface_median_5K_C": 27.717756271362305,
+      "recent_surface_median_5K_C": 27.678447723388672,
+      "shared_support_median_difference_3K_C": -0.5024490356445312,
+      "shared_support_median_difference_5K_C": 0.12475776672363281,
+      "median_abs_filter_difference_on_shared_support_C": 0.8104982376098633
+    },
+    {
+      "district": "Brno-jih",
+      "area_coverage_5K_pct": 99.7606981981982,
+      "area_coverage_3K_pct": 52.744932432432435,
+      "median_paired_difference_5K_C": 2.2840919494628906,
+      "early_surface_median_5K_C": 33.74543380737305,
+      "recent_surface_median_5K_C": 35.98851013183594,
+      "shared_support_median_difference_3K_C": 1.4748764038085938,
+      "shared_support_median_difference_5K_C": 2.1772804260253906,
+      "median_abs_filter_difference_on_shared_support_C": 1.5176010131835938
+    },
+    {
+      "district": "Brno-Jundrov",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 15.584970111016226,
+      "median_paired_difference_5K_C": 1.3330268859863281,
+      "early_surface_median_5K_C": 27.17087173461914,
+      "recent_surface_median_5K_C": 28.36547088623047,
+      "shared_support_median_difference_3K_C": 1.1920342445373535,
+      "shared_support_median_difference_5K_C": 1.2689399719238281,
+      "median_abs_filter_difference_on_shared_support_C": 0.7861461639404297
+    },
+    {
+      "district": "Brno-střed",
+      "area_coverage_5K_pct": 90.8615706291126,
+      "area_coverage_3K_pct": 19.740483365106698,
+      "median_paired_difference_5K_C": 2.189241409301758,
+      "early_surface_median_5K_C": 34.21370315551758,
+      "recent_surface_median_5K_C": 36.61656951904297,
+      "shared_support_median_difference_3K_C": 1.7448997497558594,
+      "shared_support_median_difference_5K_C": 2.3584327697753906,
+      "median_abs_filter_difference_on_shared_support_C": 1.1783638000488281
+    },
+    {
+      "district": "Brno-Kníničky",
+      "area_coverage_5K_pct": 90.44554455445545,
+      "area_coverage_3K_pct": 76.97194719471948,
+      "median_paired_difference_5K_C": 0.38965415954589844,
+      "early_surface_median_5K_C": 27.09482192993164,
+      "recent_surface_median_5K_C": 27.415260314941406,
+      "shared_support_median_difference_3K_C": 0.13159465789794922,
+      "shared_support_median_difference_5K_C": 0.3161659240722656,
+      "median_abs_filter_difference_on_shared_support_C": 1.2287778854370117
+    },
+    {
+      "district": "Brno-sever",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 97.05190413174533,
+      "median_paired_difference_5K_C": 1.5927963256835938,
+      "early_surface_median_5K_C": 30.67605209350586,
+      "recent_surface_median_5K_C": 32.57305145263672,
+      "shared_support_median_difference_3K_C": 1.6372299194335938,
+      "shared_support_median_difference_5K_C": 1.6167221069335938,
+      "median_abs_filter_difference_on_shared_support_C": 0.8579235076904297
+    },
+    {
+      "district": "Brno-Žebětín",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 89.53295793309043,
+      "median_paired_difference_5K_C": 1.322774887084961,
+      "early_surface_median_5K_C": 28.43724822998047,
+      "recent_surface_median_5K_C": 29.81471061706543,
+      "shared_support_median_difference_3K_C": 0.20422744750976562,
+      "shared_support_median_difference_5K_C": 1.2527046203613281,
+      "median_abs_filter_difference_on_shared_support_C": 1.0877866744995117
+    },
+    {
+      "district": "Brno-Komín",
+      "area_coverage_5K_pct": 99.98815025476952,
+      "area_coverage_3K_pct": 72.24789667022159,
+      "median_paired_difference_5K_C": 0.8647594451904297,
+      "early_surface_median_5K_C": 31.028108596801758,
+      "recent_surface_median_5K_C": 31.640788078308105,
+      "shared_support_median_difference_3K_C": 2.252471923828125,
+      "shared_support_median_difference_5K_C": 0.6015739440917969,
+      "median_abs_filter_difference_on_shared_support_C": 1.6833724975585938
+    },
+    {
+      "district": "Brno-Královo Pole",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 83.46885890447682,
+      "median_paired_difference_5K_C": 2.2182960510253906,
+      "early_surface_median_5K_C": 32.16972732543945,
+      "recent_surface_median_5K_C": 35.18100357055664,
+      "shared_support_median_difference_3K_C": 2.037139892578125,
+      "shared_support_median_difference_5K_C": 2.1636085510253906,
+      "median_abs_filter_difference_on_shared_support_C": 0.9297027587890625
+    },
+    {
+      "district": "Brno-Maloměřice a Obřany",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 99.22360248447205,
+      "median_paired_difference_5K_C": 1.1621265411376953,
+      "early_surface_median_5K_C": 30.74184799194336,
+      "recent_surface_median_5K_C": 32.03471374511719,
+      "shared_support_median_difference_3K_C": 1.2420220375061035,
+      "shared_support_median_difference_5K_C": 1.1587085723876953,
+      "median_abs_filter_difference_on_shared_support_C": 0.7758913040161133
+    },
+    {
+      "district": "Brno-Řečkovice a Mokrá Hora",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 34.71477908776944,
+      "median_paired_difference_5K_C": 1.295431137084961,
+      "early_surface_median_5K_C": 29.948013305664062,
+      "recent_surface_median_5K_C": 30.761503219604492,
+      "shared_support_median_difference_3K_C": 0.7553825378417969,
+      "shared_support_median_difference_5K_C": 1.0168609619140625,
+      "median_abs_filter_difference_on_shared_support_C": 1.0202789306640625
+    },
+    {
+      "district": "Brno-Starý Lískovec",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 92.35197368421052,
+      "median_paired_difference_5K_C": 1.8807659149169922,
+      "early_surface_median_5K_C": 31.993698120117188,
+      "recent_surface_median_5K_C": 33.37372589111328,
+      "shared_support_median_difference_3K_C": 0.9519195556640625,
+      "shared_support_median_difference_5K_C": 1.8901653289794922,
+      "median_abs_filter_difference_on_shared_support_C": 1.0322456359863281
+    },
+    {
+      "district": "Brno-Tuřany",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 87.44638982794288,
+      "median_paired_difference_5K_C": 2.032012939453125,
+      "early_surface_median_5K_C": 33.45148468017578,
+      "recent_surface_median_5K_C": 35.38266372680664,
+      "shared_support_median_difference_3K_C": 1.948272705078125,
+      "shared_support_median_difference_5K_C": 2.045684814453125,
+      "median_abs_filter_difference_on_shared_support_C": 1.5927963256835938
+    },
+    {
+      "district": "Brno-Vinohrady",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 98.47575057736721,
+      "median_paired_difference_5K_C": 1.0288238525390625,
+      "early_surface_median_5K_C": 32.655086517333984,
+      "recent_surface_median_5K_C": 33.67023849487305,
+      "shared_support_median_difference_3K_C": 3.405200958251953,
+      "shared_support_median_difference_5K_C": 1.0706939697265625,
+      "median_abs_filter_difference_on_shared_support_C": 2.120882987976074
+    },
+    {
+      "district": "Brno-Žabovřesky",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 9.47651562176702,
+      "median_paired_difference_5K_C": 2.5293350219726562,
+      "early_surface_median_5K_C": 31.718547821044922,
+      "recent_surface_median_5K_C": 34.30598831176758,
+      "shared_support_median_difference_3K_C": 3.0129852294921875,
+      "shared_support_median_difference_5K_C": 2.2746925354003906,
+      "median_abs_filter_difference_on_shared_support_C": 0.6545515060424805
+    },
+    {
+      "district": "Brno-Židenice",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 97.6976619668035,
+      "median_paired_difference_5K_C": 2.061065673828125,
+      "early_surface_median_5K_C": 34.19319534301758,
+      "recent_surface_median_5K_C": 36.2286262512207,
+      "shared_support_median_difference_3K_C": 3.173203468322754,
+      "shared_support_median_difference_5K_C": 2.070465087890625,
+      "median_abs_filter_difference_on_shared_support_C": 1.16469144821167
+    },
+    {
+      "district": "Brno-Medlánky",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 74.46753913266615,
+      "median_paired_difference_5K_C": 1.0715503692626953,
+      "early_surface_median_5K_C": 30.68801498413086,
+      "recent_surface_median_5K_C": 31.60746192932129,
+      "shared_support_median_difference_3K_C": 1.4236030578613281,
+      "shared_support_median_difference_5K_C": 0.7109470367431641,
+      "median_abs_filter_difference_on_shared_support_C": 1.1040210723876953
+    },
+    {
+      "district": "Brno-Ořešín",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 99.5579133510168,
+      "median_paired_difference_5K_C": 0.9126091003417969,
+      "early_surface_median_5K_C": 26.413780212402344,
+      "recent_surface_median_5K_C": 26.820526123046875,
+      "shared_support_median_difference_3K_C": 1.3650717735290527,
+      "shared_support_median_difference_5K_C": 0.9126110076904297,
+      "median_abs_filter_difference_on_shared_support_C": 0.8203248977661133
+    },
+    {
+      "district": "Brno-Slatina",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 99.86093943139679,
+      "median_paired_difference_5K_C": 2.3336544036865234,
+      "early_surface_median_5K_C": 33.99067687988281,
+      "recent_surface_median_5K_C": 36.3533821105957,
+      "shared_support_median_difference_3K_C": 2.6284561157226562,
+      "shared_support_median_difference_5K_C": 2.3345069885253906,
+      "median_abs_filter_difference_on_shared_support_C": 1.1330757141113281
+    },
+    {
+      "district": "Brno-Nový Lískovec",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 2.23433242506812,
+      "median_paired_difference_5K_C": 0.7878551483154297,
+      "early_surface_median_5K_C": 32.634578704833984,
+      "recent_surface_median_5K_C": 33.171207427978516,
+      "shared_support_median_difference_3K_C": 0.9963531494140625,
+      "shared_support_median_difference_5K_C": 1.2697944641113281,
+      "median_abs_filter_difference_on_shared_support_C": 0.45801544189453125
+    },
+    {
+      "district": "Brno-Jehnice",
+      "area_coverage_5K_pct": 100.0,
+      "area_coverage_3K_pct": 86.45303867403315,
+      "median_paired_difference_5K_C": 0.9091930389404297,
+      "early_surface_median_5K_C": 29.055910110473633,
+      "recent_surface_median_5K_C": 29.84205436706543,
+      "shared_support_median_difference_3K_C": 1.2368955612182617,
+      "shared_support_median_difference_5K_C": 0.9604644775390625,
+      "median_abs_filter_difference_on_shared_support_C": 1.1023120880126953
+    }
+  ],
+  "reference_shift_used_only_in_older_relative_maps_C": 1.3484077453613281,
+  "broader_only_area_pct": 24.31706172260033,
+  "raster_identity_max_error_C": 0.0,
+  "native_thermal_detail_m": [
+    60,
+    120
+  ],
+  "output_grid_m": 30
+}

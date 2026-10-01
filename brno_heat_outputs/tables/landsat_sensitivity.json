@@ -1,0 +1,41 @@
+{
+  "current": {
+    "coverage_pct": 98.76476570445124,
+    "city_median_C": 34.23762893676758,
+    "hotspot_p90_C": 5.1013946533203125
+  },
+  "1_dates_3_years_5_total": {
+    "area_coverage_pct": 73.90323085347728,
+    "early_city_median_C": 32.27226638793945,
+    "recent_city_median_C": 33.75568771362305,
+    "change_p10_C": -2.7121992111206055,
+    "change_p90_C": 2.4917373657226562
+  },
+  "1_dates_3_years_3_total": {
+    "area_coverage_pct": 84.22748963467104,
+    "early_city_median_C": 32.498711585998535,
+    "recent_city_median_C": 33.96076965332031,
+    "change_p10_C": -2.6908349990844727,
+    "change_p90_C": 2.5165185928344727,
+    "change_correlation_with_primary": 0.9999999999999998,
+    "sign_agreement_where_primary_abs_ge_2C_pct": 100.0
+  },
+  "2_dates_3_years_5_total": {
+    "area_coverage_pct": 33.5230384103888,
+    "early_city_median_C": 30.553003311157227,
+    "recent_city_median_C": 31.964645385742188,
+    "change_p10_C": -2.6284561157226562,
+    "change_p90_C": 2.717327117919922,
+    "change_correlation_with_primary": 0.94186460884923,
+    "sign_agreement_where_primary_abs_ge_2C_pct": 98.66728704842302
+  },
+  "1_dates_4_years_5_total": {
+    "area_coverage_pct": 61.110459203629816,
+    "early_city_median_C": 32.10991287231445,
+    "recent_city_median_C": 33.72663497924805,
+    "change_p10_C": -2.7147607803344727,
+    "change_p90_C": 2.4601226806640626,
+    "change_correlation_with_primary": 1.0,
+    "sign_agreement_where_primary_abs_ge_2C_pct": 100.0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "districts": 29,
+  "city_pixels_without_district": 129,
+  "city_pixels_with_multiple_districts": 0,
+  "city_pixels": 255660,
+  "aligned_quality_grids": true,
+  "nested_quality_counts": true
+}

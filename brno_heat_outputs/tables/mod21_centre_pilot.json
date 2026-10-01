@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "columns": {
+    "ST_error_max_K": "Integer",
+    "accepted_area": "Float",
+    "all_area": "Float",
+    "emissivity_error_max": "Float",
+    "min_days": "Integer",
+    "phase": "String",
+    "source": "String",
+    "system:index": "String",
+    "year": "Integer"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "id": "0",
+      "properties": {
+        "LST_1KM": 15,
+        "ST_error_max_K": 2,
+        "accepted_area": 0,
+        "all_area": 14596353.167647056,
+        "emissivity_error_max": 0.02,
+        "min_days": 20,
+        "phase": "day",
+        "source": "MOD21A1D",
+        "year": 2001,
+        "coverage_pct": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "id": "1",
+      "properties": {
+        "ST_error_max_K": 2,
+        "accepted_area": 0,
+        "all_area": 14596353.167647056,
+        "emissivity_error_max": 0.02,
+        "min_days": 20,
+        "phase": "night",
+        "source": "MOD21A1N",
+        "year": 2001,
+        "coverage_pct": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "id": "2",
+      "properties": {
+        "LST_1KM": 3,
+        "ST_error_max_K": 2,
+        "accepted_area": 0,
+        "all_area": 14596353.167647056,
+        "emissivity_error_max": 0.02,
+        "min_days": 20,
+        "phase": "day",
+        "source": "MOD21A1D",
+        "year": 2025,
+        "coverage_pct": 0.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "id": "3",
+      "properties": {
+        "ST_error_max_K": 2,
+        "accepted_area": 0,
+        "all_area": 14596353.167647056,
+        "emissivity_error_max": 0.02,
+        "min_days": 20,
+        "phase": "night",
+        "source": "MOD21A1N",
+        "year": 2025,
+        "coverage_pct": 0.0
+      }
+    }
+  ]
+}

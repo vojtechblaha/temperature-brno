@@ -1,0 +1,68 @@
+[
+  {
+    "longitude": 16.6068,
+    "latitude": 49.1951,
+    "date": "2025-06-14",
+    "local": [
+      15591.0,
+      81.0,
+      139.0,
+      14272.0,
+      81.0,
+      12.0
+    ],
+    "earth_engine": {
+      "Day_view_time": 139,
+      "LST_Day_1km": 15591,
+      "LST_Night_1km": 14272,
+      "Night_view_time": 12,
+      "QC_Day": 81,
+      "QC_Night": 81
+    },
+    "matches": true
+  },
+  {
+    "longitude": 16.5,
+    "latitude": 49.25,
+    "date": "2025-06-14",
+    "local": [
+      15037.0,
+      0.0,
+      139.0,
+      14163.0,
+      null,
+      12.0
+    ],
+    "earth_engine": {
+      "Day_view_time": 139,
+      "LST_Day_1km": 15037,
+      "LST_Night_1km": 14163,
+      "Night_view_time": 12,
+      "QC_Day": 0,
+      "QC_Night": null
+    },
+    "matches": true
+  },
+  {
+    "longitude": 16.68,
+    "latitude": 49.16,
+    "date": "2025-06-14",
+    "local": [
+      15457.0,
+      0.0,
+      139.0,
+      14114.0,
+      null,
+      12.0
+    ],
+    "earth_engine": {
+      "Day_view_time": 139,
+      "LST_Day_1km": 15457,
+      "LST_Night_1km": 14114,
+      "Night_view_time": 12,
+      "QC_Day": 0,
+      "QC_Night": null
+    },
+    "matches": true
+  }
+]
